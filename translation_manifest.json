@@ -1,0 +1,2018 @@
+{
+  "version": 1,
+  "updated_at": "2026-06-12T09:23:34.826210+00:00",
+  "translations": {
+    "phases/00-setup-and-tooling/01-dev-environment/docs/en.md": {
+      "sha256": "b50efabe40b346892ea95cd6b70340237c580832ebf53a06c6a1c7fdd9584c6a",
+      "zh_path": "phases/00-setup-and-tooling/01-dev-environment/docs/zh.md"
+    },
+    "phases/00-setup-and-tooling/02-git-and-collaboration/docs/en.md": {
+      "sha256": "71ea5df0a649bb05ccda7dd4accc53d2fb346e365bd7e835a3a21b2ed260a942",
+      "zh_path": "phases/00-setup-and-tooling/02-git-and-collaboration/docs/zh.md"
+    },
+    "phases/00-setup-and-tooling/03-gpu-setup-and-cloud/docs/en.md": {
+      "sha256": "a1a9173523cab9ff72b96dc30a0ea4a3e2c39b5cfa9170b85e71adac8dbf8401",
+      "zh_path": "phases/00-setup-and-tooling/03-gpu-setup-and-cloud/docs/zh.md"
+    },
+    "phases/00-setup-and-tooling/04-apis-and-keys/docs/en.md": {
+      "sha256": "260b09b0758c6729edba087a6f95e2a61974c1cad24ce4b088e7ab139ed3c70f",
+      "zh_path": "phases/00-setup-and-tooling/04-apis-and-keys/docs/zh.md"
+    },
+    "phases/00-setup-and-tooling/05-jupyter-notebooks/docs/en.md": {
+      "sha256": "9dc71c2ee3909db6a060b7de3a3b52332ac36568c92ceac3a76f0153a0c0fdf9",
+      "zh_path": "phases/00-setup-and-tooling/05-jupyter-notebooks/docs/zh.md"
+    },
+    "phases/00-setup-and-tooling/06-python-environments/docs/en.md": {
+      "sha256": "d36a0b559174fd19d44c0e0dfa18ca333e79ab2d4a1c84ca623ab16a6a7f1d99",
+      "zh_path": "phases/00-setup-and-tooling/06-python-environments/docs/zh.md"
+    },
+    "phases/00-setup-and-tooling/07-docker-for-ai/docs/en.md": {
+      "sha256": "a12e104e10cb1cba2c583586591e41143cc8ea058fd61986cce68047c6009a99",
+      "zh_path": "phases/00-setup-and-tooling/07-docker-for-ai/docs/zh.md"
+    },
+    "phases/00-setup-and-tooling/08-editor-setup/docs/en.md": {
+      "sha256": "dd86b33c5dad1b6c57cb26e322a7573f382762e565628c41b3912e0ae03d12db",
+      "zh_path": "phases/00-setup-and-tooling/08-editor-setup/docs/zh.md"
+    },
+    "phases/00-setup-and-tooling/09-data-management/docs/en.md": {
+      "sha256": "b03fe7e42ca754f6b783cce308db81cfa5c5e3f93453bc1bf8cfa13b1373c5e1",
+      "zh_path": "phases/00-setup-and-tooling/09-data-management/docs/zh.md"
+    },
+    "phases/00-setup-and-tooling/10-terminal-and-shell/docs/en.md": {
+      "sha256": "e66d1dfb656412e4d51741b97aea9042271c48a110417fd9fc3a2160b41d1781",
+      "zh_path": "phases/00-setup-and-tooling/10-terminal-and-shell/docs/zh.md"
+    },
+    "phases/00-setup-and-tooling/11-linux-for-ai/docs/en.md": {
+      "sha256": "bf587bd1176a5f1a5a62ccad8aa4982eb1cde078a4d6c7d7fd45e9e997f2391a",
+      "zh_path": "phases/00-setup-and-tooling/11-linux-for-ai/docs/zh.md"
+    },
+    "phases/00-setup-and-tooling/12-debugging-and-profiling/docs/en.md": {
+      "sha256": "e0d04b7136924970ff9d34c213c33023445feb5217b79d304d502f5ac17720f0",
+      "zh_path": "phases/00-setup-and-tooling/12-debugging-and-profiling/docs/zh.md"
+    },
+    "phases/01-math-foundations/01-linear-algebra-intuition/docs/en.md": {
+      "sha256": "9bac2df58d85c30df3f36bde3626b02a3fa6aa001536bc343320b9048ee284e1",
+      "zh_path": "phases/01-math-foundations/01-linear-algebra-intuition/docs/zh.md"
+    },
+    "phases/01-math-foundations/02-vectors-matrices-operations/docs/en.md": {
+      "sha256": "398ce87f481e54f360898e1af0d0c05877f631d5d1b1c1edebf83f3cf5a09981",
+      "zh_path": "phases/01-math-foundations/02-vectors-matrices-operations/docs/zh.md"
+    },
+    "phases/01-math-foundations/03-matrix-transformations/docs/en.md": {
+      "sha256": "bd248b5462edccab7838ef32e303839811157e453873fb6b19421e4f3d5f2365",
+      "zh_path": "phases/01-math-foundations/03-matrix-transformations/docs/zh.md"
+    },
+    "phases/01-math-foundations/04-calculus-for-ml/docs/en.md": {
+      "sha256": "0ed4721bd7a01a876bdfd1cafd3a732d645842bf942f708bf32198fd5a8e6794",
+      "zh_path": "phases/01-math-foundations/04-calculus-for-ml/docs/zh.md"
+    },
+    "phases/01-math-foundations/05-chain-rule-and-autodiff/docs/en.md": {
+      "sha256": "4687cfcd67796cd61c6a73bfca1125c030030cf7a75f6aef98f7e640c5447190",
+      "zh_path": "phases/01-math-foundations/05-chain-rule-and-autodiff/docs/zh.md"
+    },
+    "phases/01-math-foundations/06-probability-and-distributions/docs/en.md": {
+      "sha256": "6af905cb9c5318be55d10a25d9ba18b2dc253d8b8fe6b5b4cc32fe243d2e47f8",
+      "zh_path": "phases/01-math-foundations/06-probability-and-distributions/docs/zh.md"
+    },
+    "phases/01-math-foundations/07-bayes-theorem/docs/en.md": {
+      "sha256": "0d923219992ac86ab6fccdfaf8377863b6d3b3698c7403075d237c13409441eb",
+      "zh_path": "phases/01-math-foundations/07-bayes-theorem/docs/zh.md"
+    },
+    "phases/01-math-foundations/08-optimization/docs/en.md": {
+      "sha256": "390797c59e5e709c5670edc7aa79d087fa9ada55a37a6818f35f946a53be92d6",
+      "zh_path": "phases/01-math-foundations/08-optimization/docs/zh.md"
+    },
+    "phases/01-math-foundations/09-information-theory/docs/en.md": {
+      "sha256": "56e2b277862358e636e71058ac13e9cd31366d39105702aa91570844e1e38953",
+      "zh_path": "phases/01-math-foundations/09-information-theory/docs/zh.md"
+    },
+    "phases/01-math-foundations/10-dimensionality-reduction/docs/en.md": {
+      "sha256": "13f508adaa0599b3db8d18ad77c9b20b501cf6864dd242ad884a48412e41bcfc",
+      "zh_path": "phases/01-math-foundations/10-dimensionality-reduction/docs/zh.md"
+    },
+    "phases/01-math-foundations/11-singular-value-decomposition/docs/en.md": {
+      "sha256": "8cd08bd71af0e84ef70159d67acf7b0781860dd567dd060b037c3923ae27c214",
+      "zh_path": "phases/01-math-foundations/11-singular-value-decomposition/docs/zh.md"
+    },
+    "phases/01-math-foundations/12-tensor-operations/docs/en.md": {
+      "sha256": "98beea9409bda9831f924611911ce5218d012444740a5a8a800f9c7823aaf632",
+      "zh_path": "phases/01-math-foundations/12-tensor-operations/docs/zh.md"
+    },
+    "phases/01-math-foundations/13-numerical-stability/docs/en.md": {
+      "sha256": "1f803ae9c3db1ab75678a37007833c86479ef7810778c396201e3c5d91e731c6",
+      "zh_path": "phases/01-math-foundations/13-numerical-stability/docs/zh.md"
+    },
+    "phases/01-math-foundations/14-norms-and-distances/docs/en.md": {
+      "sha256": "f0949b87124ae76e14ed331231e357edf7e60552dc4fadd42dee0ffed10ebeca",
+      "zh_path": "phases/01-math-foundations/14-norms-and-distances/docs/zh.md"
+    },
+    "phases/01-math-foundations/15-statistics-for-ml/docs/en.md": {
+      "sha256": "cf44606152d65f57c3051916164a2b2a874da2a83c6022a31206a30b4854f029",
+      "zh_path": "phases/01-math-foundations/15-statistics-for-ml/docs/zh.md"
+    },
+    "phases/01-math-foundations/16-sampling-methods/docs/en.md": {
+      "sha256": "387bb3952f9a86f59c898179ec88597a8e9719e662ecab1b6b93bd6a977c2616",
+      "zh_path": "phases/01-math-foundations/16-sampling-methods/docs/zh.md"
+    },
+    "phases/01-math-foundations/17-linear-systems/docs/en.md": {
+      "sha256": "df10ed21b4b80b7ad5d1bc2d000ee57a5708fcae3aeb21c44279ec45c8af5354",
+      "zh_path": "phases/01-math-foundations/17-linear-systems/docs/zh.md"
+    },
+    "phases/01-math-foundations/18-convex-optimization/docs/en.md": {
+      "sha256": "061158e46d86c18ffeb43b730c98c52994ae863629445f6431942a368cfdb952",
+      "zh_path": "phases/01-math-foundations/18-convex-optimization/docs/zh.md"
+    },
+    "phases/01-math-foundations/19-complex-numbers/docs/en.md": {
+      "sha256": "4452702ccd0d4c75a574644f277d6f6a6d87579f80395eccebdd211bdefbfd58",
+      "zh_path": "phases/01-math-foundations/19-complex-numbers/docs/zh.md"
+    },
+    "phases/01-math-foundations/20-fourier-transform/docs/en.md": {
+      "sha256": "88d32836b77ed732bc2e2610451d4ea5509c1b20b9bb96dddc2dd3cd0bc47cff",
+      "zh_path": "phases/01-math-foundations/20-fourier-transform/docs/zh.md"
+    },
+    "phases/01-math-foundations/21-graph-theory/docs/en.md": {
+      "sha256": "f604b6e3676d179188e0bbab407160cff0141ed22b21747339ca3b9fd28cb77f",
+      "zh_path": "phases/01-math-foundations/21-graph-theory/docs/zh.md"
+    },
+    "phases/01-math-foundations/22-stochastic-processes/docs/en.md": {
+      "sha256": "229c9d558bdfc653ec68f20c418a651a7f49f2c15f63a1ab106226b33d6c1fc6",
+      "zh_path": "phases/01-math-foundations/22-stochastic-processes/docs/zh.md"
+    },
+    "phases/02-ml-fundamentals/01-what-is-machine-learning/docs/en.md": {
+      "sha256": "c890f0f644a41264185c84fffee7706879c6d80e08e6651b88c7c13fcde69f17",
+      "zh_path": "phases/02-ml-fundamentals/01-what-is-machine-learning/docs/zh.md"
+    },
+    "phases/02-ml-fundamentals/02-linear-regression/docs/en.md": {
+      "sha256": "893df66ce1cf29d175e9a63cdd73b1af0c67e934f4a134b7a84d53f2170954af",
+      "zh_path": "phases/02-ml-fundamentals/02-linear-regression/docs/zh.md"
+    },
+    "phases/02-ml-fundamentals/03-logistic-regression/docs/en.md": {
+      "sha256": "28c89a0c75029f41edaaa3aae7428a8a5b30479765ec4c1afdf4853917c25954",
+      "zh_path": "phases/02-ml-fundamentals/03-logistic-regression/docs/zh.md"
+    },
+    "phases/02-ml-fundamentals/04-decision-trees/docs/en.md": {
+      "sha256": "9050f83feac8427e29c4cfbc48762e8832bfc9fada9586a2af87df3f99c02924",
+      "zh_path": "phases/02-ml-fundamentals/04-decision-trees/docs/zh.md"
+    },
+    "phases/02-ml-fundamentals/05-support-vector-machines/docs/en.md": {
+      "sha256": "4032f704f9675d31f9c0a1dfbf768283b9c50b5699ccebc90fa5813819136ddd",
+      "zh_path": "phases/02-ml-fundamentals/05-support-vector-machines/docs/zh.md"
+    },
+    "phases/02-ml-fundamentals/06-knn-and-distances/docs/en.md": {
+      "sha256": "f18a8624854931bd3757829e4d4626d4dc3b6f10f0ad2cf3c2011e983172f1d4",
+      "zh_path": "phases/02-ml-fundamentals/06-knn-and-distances/docs/zh.md"
+    },
+    "phases/02-ml-fundamentals/07-unsupervised-learning/docs/en.md": {
+      "sha256": "5e26db25c8145c483fe715d119cb472956305f42597061fc5841a1838999af38",
+      "zh_path": "phases/02-ml-fundamentals/07-unsupervised-learning/docs/zh.md"
+    },
+    "phases/02-ml-fundamentals/08-feature-engineering/docs/en.md": {
+      "sha256": "964a9b0cd007a7d7e78196fb390fbc8bd84d227bdfcadf3c7db9e7749e70ca9c",
+      "zh_path": "phases/02-ml-fundamentals/08-feature-engineering/docs/zh.md"
+    },
+    "phases/02-ml-fundamentals/09-model-evaluation/docs/en.md": {
+      "sha256": "4c0ac1f4722a3525dd3dbc7290238a75ac414b195c7715129db05ec36a99619e",
+      "zh_path": "phases/02-ml-fundamentals/09-model-evaluation/docs/zh.md"
+    },
+    "phases/02-ml-fundamentals/10-bias-variance/docs/en.md": {
+      "sha256": "0a85c46801a4aebab2816e45dafaa49a60d12a89da2d1fc5f5f8fb63e15830c9",
+      "zh_path": "phases/02-ml-fundamentals/10-bias-variance/docs/zh.md"
+    },
+    "phases/02-ml-fundamentals/11-ensemble-methods/docs/en.md": {
+      "sha256": "1b37fc2cc679e21ed239319426ffa12c863ca5237a10223c6b15cf4f6b809e24",
+      "zh_path": "phases/02-ml-fundamentals/11-ensemble-methods/docs/zh.md"
+    },
+    "phases/02-ml-fundamentals/12-hyperparameter-tuning/docs/en.md": {
+      "sha256": "ec61d03f29614e7a330e9fbee1c08deb4da99e42efc6984dc83d55142615ee85",
+      "zh_path": "phases/02-ml-fundamentals/12-hyperparameter-tuning/docs/zh.md"
+    },
+    "phases/02-ml-fundamentals/13-ml-pipelines/docs/en.md": {
+      "sha256": "99688d8905f7d64b29abf8461ecf68d7aae78520a47ee5b38b99d38f1146d397",
+      "zh_path": "phases/02-ml-fundamentals/13-ml-pipelines/docs/zh.md"
+    },
+    "phases/02-ml-fundamentals/14-naive-bayes/docs/en.md": {
+      "sha256": "cda8fef9420715c6fd52a94ea81e2d3a93ae60d32e08a4170ddf8e56696b5a63",
+      "zh_path": "phases/02-ml-fundamentals/14-naive-bayes/docs/zh.md"
+    },
+    "phases/02-ml-fundamentals/15-time-series/docs/en.md": {
+      "sha256": "52486b4adaae8541151e359f7474fabf3943a4247530932b0c355d61aed826a4",
+      "zh_path": "phases/02-ml-fundamentals/15-time-series/docs/zh.md"
+    },
+    "phases/02-ml-fundamentals/16-anomaly-detection/docs/en.md": {
+      "sha256": "6426c6044bb283fec906ca2e987947a36d0459959b587150e1c307aaa1e963b2",
+      "zh_path": "phases/02-ml-fundamentals/16-anomaly-detection/docs/zh.md"
+    },
+    "phases/02-ml-fundamentals/17-imbalanced-data/docs/en.md": {
+      "sha256": "1c1f6a2ec1c61310c203298b1eed4eae0923c41764e4f5ced9d86d752b223f40",
+      "zh_path": "phases/02-ml-fundamentals/17-imbalanced-data/docs/zh.md"
+    },
+    "phases/02-ml-fundamentals/18-feature-selection/docs/en.md": {
+      "sha256": "af7053801f373f64fcd2ae33e221e0b853b2d95d3fff69f662dc4ef2b220f7fc",
+      "zh_path": "phases/02-ml-fundamentals/18-feature-selection/docs/zh.md"
+    },
+    "phases/03-deep-learning-core/01-the-perceptron/docs/en.md": {
+      "sha256": "ab8e9fbfe5bcb8328d915987f8ca588e1b3bccd946a789e4b8bb983e6c78284a",
+      "zh_path": "phases/03-deep-learning-core/01-the-perceptron/docs/zh.md"
+    },
+    "phases/03-deep-learning-core/02-multi-layer-networks/docs/en.md": {
+      "sha256": "192b46fd134bdd7aada17ecd58fafd35c973d11b9bf47ac3a785cc91595db428",
+      "zh_path": "phases/03-deep-learning-core/02-multi-layer-networks/docs/zh.md"
+    },
+    "phases/03-deep-learning-core/03-backpropagation/docs/en.md": {
+      "sha256": "e481014372b43289e15b4d7b70a4045eb786168afb10fe15d1fff84b4bccb7ee",
+      "zh_path": "phases/03-deep-learning-core/03-backpropagation/docs/zh.md"
+    },
+    "phases/03-deep-learning-core/04-activation-functions/docs/en.md": {
+      "sha256": "da086a041c9bd97f2465a02c2f3a877eb997969ef5e39f9b8d9585f38370aca3",
+      "zh_path": "phases/03-deep-learning-core/04-activation-functions/docs/zh.md"
+    },
+    "phases/03-deep-learning-core/05-loss-functions/docs/en.md": {
+      "sha256": "aa64f3d64a9dab9b7e68b117158d8876bf350adc30d2cd3cddf4d11702d3085c",
+      "zh_path": "phases/03-deep-learning-core/05-loss-functions/docs/zh.md"
+    },
+    "phases/03-deep-learning-core/06-optimizers/docs/en.md": {
+      "sha256": "9af59689813d171106b558fca9875f7992c8e834b8d7a69310bbaf7428ff9ad9",
+      "zh_path": "phases/03-deep-learning-core/06-optimizers/docs/zh.md"
+    },
+    "phases/03-deep-learning-core/07-regularization/docs/en.md": {
+      "sha256": "c6e31ead99cce8cf40dda09a94a3a2b95978f162e4fe67bc3f3e1b9763ae170d",
+      "zh_path": "phases/03-deep-learning-core/07-regularization/docs/zh.md"
+    },
+    "phases/03-deep-learning-core/08-weight-initialization/docs/en.md": {
+      "sha256": "9c270a87d2872791247c02d3d471bc82bd76ea116df35c80143bc1b53a08c87b",
+      "zh_path": "phases/03-deep-learning-core/08-weight-initialization/docs/zh.md"
+    },
+    "phases/03-deep-learning-core/09-learning-rate-schedules/docs/en.md": {
+      "sha256": "192874a3732b8f75bf87c252b2cabefb58a8df22db14a5ca0118bf8e812e2551",
+      "zh_path": "phases/03-deep-learning-core/09-learning-rate-schedules/docs/zh.md"
+    },
+    "phases/03-deep-learning-core/10-mini-framework/docs/en.md": {
+      "sha256": "94d283931d471f9a757d50d4f12656d497b3cb78aacebeb7619a55e5c0e67325",
+      "zh_path": "phases/03-deep-learning-core/10-mini-framework/docs/zh.md"
+    },
+    "phases/03-deep-learning-core/11-intro-to-pytorch/docs/en.md": {
+      "sha256": "9c1d3d3a389c673ccc0b0491dba0401ef37bac7d7e885ce22d4309f0adb2ea0e",
+      "zh_path": "phases/03-deep-learning-core/11-intro-to-pytorch/docs/zh.md"
+    },
+    "phases/03-deep-learning-core/12-intro-to-jax/docs/en.md": {
+      "sha256": "9fe3133043ee5c5841555859f2e60f3cd11c6ee194ae7dd4ff6788a97d307a50",
+      "zh_path": "phases/03-deep-learning-core/12-intro-to-jax/docs/zh.md"
+    },
+    "phases/03-deep-learning-core/13-debugging-neural-networks/docs/en.md": {
+      "sha256": "93a9c9e91cc1312801ca02385de5891b2858f45a28a70a3dd099ce5848f21753",
+      "zh_path": "phases/03-deep-learning-core/13-debugging-neural-networks/docs/zh.md"
+    },
+    "phases/04-computer-vision/01-image-fundamentals/docs/en.md": {
+      "sha256": "78e203926c1c6d6cafe0debd7702e1a7609034dd3c819e9e17d8155861c7600e",
+      "zh_path": "phases/04-computer-vision/01-image-fundamentals/docs/zh.md"
+    },
+    "phases/04-computer-vision/02-convolutions-from-scratch/docs/en.md": {
+      "sha256": "ee7e94efac71346b107d1e0d49de3f61bec95937e30f82bc2aa836bc7757c0ea",
+      "zh_path": "phases/04-computer-vision/02-convolutions-from-scratch/docs/zh.md"
+    },
+    "phases/04-computer-vision/03-cnns-lenet-to-resnet/docs/en.md": {
+      "sha256": "d0481e111f38c7b8dc4af048a84d75fe8d9043a5431b90c9b06675e66925d27a",
+      "zh_path": "phases/04-computer-vision/03-cnns-lenet-to-resnet/docs/zh.md"
+    },
+    "phases/04-computer-vision/04-image-classification/docs/en.md": {
+      "sha256": "1e1ade21c3e7dfe6025da6200e8d510bc64459c00714762c853d87923579eed0",
+      "zh_path": "phases/04-computer-vision/04-image-classification/docs/zh.md"
+    },
+    "phases/04-computer-vision/05-transfer-learning/docs/en.md": {
+      "sha256": "963a271ac9dfa8fa184c385324fde0dcdf1cee8dccc3f807bd5a7cadc4c4f92e",
+      "zh_path": "phases/04-computer-vision/05-transfer-learning/docs/zh.md"
+    },
+    "phases/04-computer-vision/06-object-detection-yolo/docs/en.md": {
+      "sha256": "c1756cb66481d29f1787606bf256ec7ca4791dd57b46fcabc8c7772d4c11a2f4",
+      "zh_path": "phases/04-computer-vision/06-object-detection-yolo/docs/zh.md"
+    },
+    "phases/04-computer-vision/07-semantic-segmentation-unet/docs/en.md": {
+      "sha256": "5b4cbf117934f55ec28a36c1ae319d94bd56ee41bf702dd2dfe0e35004ba3ab5",
+      "zh_path": "phases/04-computer-vision/07-semantic-segmentation-unet/docs/zh.md"
+    },
+    "phases/04-computer-vision/08-instance-segmentation-mask-rcnn/docs/en.md": {
+      "sha256": "3bf1789159472ee881ff973c4e7641616020535503c5e64e7374f318b487f89b",
+      "zh_path": "phases/04-computer-vision/08-instance-segmentation-mask-rcnn/docs/zh.md"
+    },
+    "phases/04-computer-vision/09-image-generation-gans/docs/en.md": {
+      "sha256": "8f5eb993caacbe021b43cb9d4aa72b5b363c82b02325a431a9eea9ca3d91d98e",
+      "zh_path": "phases/04-computer-vision/09-image-generation-gans/docs/zh.md"
+    },
+    "phases/04-computer-vision/10-image-generation-diffusion/docs/en.md": {
+      "sha256": "312cba8d16dacb1a1af11d41aa7252d4bc28d0d9e1266cf8bf9cf5fff7db7b98",
+      "zh_path": "phases/04-computer-vision/10-image-generation-diffusion/docs/zh.md"
+    },
+    "phases/04-computer-vision/11-stable-diffusion/docs/en.md": {
+      "sha256": "daf87885054a5be4726c1688529fbd8e0e1588b050c9c5d69d74302e71d38361",
+      "zh_path": "phases/04-computer-vision/11-stable-diffusion/docs/zh.md"
+    },
+    "phases/04-computer-vision/12-video-understanding/docs/en.md": {
+      "sha256": "16aad0a8ce97d51e9f4a9d8c81a855d8f47a8387d8f5f909f856143ac544c41c",
+      "zh_path": "phases/04-computer-vision/12-video-understanding/docs/zh.md"
+    },
+    "phases/04-computer-vision/13-3d-vision-nerf/docs/en.md": {
+      "sha256": "73095264988ae7322dcfd19ec6d79a398a77cda18404bd586a405e15128aa9b7",
+      "zh_path": "phases/04-computer-vision/13-3d-vision-nerf/docs/zh.md"
+    },
+    "phases/04-computer-vision/14-vision-transformers/docs/en.md": {
+      "sha256": "b9aa7db9494a740dcc546a08cba07561f07011abfa41a0285fd79c48465a781f",
+      "zh_path": "phases/04-computer-vision/14-vision-transformers/docs/zh.md"
+    },
+    "phases/04-computer-vision/15-real-time-edge/docs/en.md": {
+      "sha256": "d6bbcacd97a751f0923f32ee3625d27d660640bedaa78521b06dd41cc5c9f9ee",
+      "zh_path": "phases/04-computer-vision/15-real-time-edge/docs/zh.md"
+    },
+    "phases/04-computer-vision/16-vision-pipeline-capstone/docs/en.md": {
+      "sha256": "e25f374511355607c947b97b3c808bc3a2c360a199888aa09eac3daa53477c8a",
+      "zh_path": "phases/04-computer-vision/16-vision-pipeline-capstone/docs/zh.md"
+    },
+    "phases/04-computer-vision/17-self-supervised-vision/docs/en.md": {
+      "sha256": "77dc74f2824ebc561ddba05d0a6dc0b0814566691435aa3f8ef6e129c0782d6d",
+      "zh_path": "phases/04-computer-vision/17-self-supervised-vision/docs/zh.md"
+    },
+    "phases/04-computer-vision/18-open-vocab-clip/docs/en.md": {
+      "sha256": "c4cb5f9392d56a2d8de10f03155384778de446133aace2abfdc73bce7b173ac0",
+      "zh_path": "phases/04-computer-vision/18-open-vocab-clip/docs/zh.md"
+    },
+    "phases/04-computer-vision/19-ocr-document-understanding/docs/en.md": {
+      "sha256": "d6c8248d9995fd4aee8b258c5d1a1641400c5b2273d92e2f73bc241fc5c57a91",
+      "zh_path": "phases/04-computer-vision/19-ocr-document-understanding/docs/zh.md"
+    },
+    "phases/04-computer-vision/20-image-retrieval-metric/docs/en.md": {
+      "sha256": "e0816c7736047604ea8f9d6c9aa8739a97c6b0b0dfe07e41453cd1a0b006c76a",
+      "zh_path": "phases/04-computer-vision/20-image-retrieval-metric/docs/zh.md"
+    },
+    "phases/04-computer-vision/21-keypoint-pose/docs/en.md": {
+      "sha256": "abf0c569b2f12879a421c47fa857843d86a2e4e46389a7d7fe67f3db14f0a0ba",
+      "zh_path": "phases/04-computer-vision/21-keypoint-pose/docs/zh.md"
+    },
+    "phases/04-computer-vision/22-3d-gaussian-splatting/docs/en.md": {
+      "sha256": "b007564084a3a46c85c516f210c7c5d117f48bead865e77e265c9ba865b6808f",
+      "zh_path": "phases/04-computer-vision/22-3d-gaussian-splatting/docs/zh.md"
+    },
+    "phases/04-computer-vision/23-diffusion-transformers-rectified-flow/docs/en.md": {
+      "sha256": "a380809b5340f90f7d0c1d3b3bcb2abe09684a789081807a9f41f11620cbd585",
+      "zh_path": "phases/04-computer-vision/23-diffusion-transformers-rectified-flow/docs/zh.md"
+    },
+    "phases/04-computer-vision/24-sam3-open-vocab-segmentation/docs/en.md": {
+      "sha256": "69bc8395c1da4d0ad18b6618eea6b7ce6260476fcc74c20ce80029b3f1038228",
+      "zh_path": "phases/04-computer-vision/24-sam3-open-vocab-segmentation/docs/zh.md"
+    },
+    "phases/04-computer-vision/25-vision-language-models/docs/en.md": {
+      "sha256": "c026b1b5c4f68be3e95e22e1ef75b5b58b94aa595abe0337d118574ae5e84377",
+      "zh_path": "phases/04-computer-vision/25-vision-language-models/docs/zh.md"
+    },
+    "phases/04-computer-vision/26-monocular-depth/docs/en.md": {
+      "sha256": "b31fcce3ae38d0a55e30192634f9df407f477565cee57f382015e912976db377",
+      "zh_path": "phases/04-computer-vision/26-monocular-depth/docs/zh.md"
+    },
+    "phases/04-computer-vision/27-multi-object-tracking/docs/en.md": {
+      "sha256": "0c47ec61b15bb8f1ddee94ef503b7a170f14a4fcda4d497ac594ba8354ddc484",
+      "zh_path": "phases/04-computer-vision/27-multi-object-tracking/docs/zh.md"
+    },
+    "phases/04-computer-vision/28-world-models-video-diffusion/docs/en.md": {
+      "sha256": "c2ed65ec263f91dbcf06bb21b8250918879557b326be3baa63278988a2393999",
+      "zh_path": "phases/04-computer-vision/28-world-models-video-diffusion/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/01-text-processing/docs/en.md": {
+      "sha256": "d7070af33a9656a02ce6dcf42966d6c8c401035df0f8fa244ec37c12ca4d210b",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/01-text-processing/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/02-bag-of-words-tfidf/docs/en.md": {
+      "sha256": "12f1e26f69e32a9e97f45a82965c3647563f7e135a6010534a843ea7da2273e9",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/02-bag-of-words-tfidf/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/03-word-embeddings-word2vec/docs/en.md": {
+      "sha256": "566500e6c43ebc3624a117e76843be1100be7951ac7780c37f15241299846b27",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/03-word-embeddings-word2vec/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/04-glove-fasttext-subword/docs/en.md": {
+      "sha256": "c4558609cec3e62bf52bfcb24809ea098cf5de46995f35ebb0ff75a36dd5f146",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/04-glove-fasttext-subword/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/05-sentiment-analysis/docs/en.md": {
+      "sha256": "6c0d5587fd261631bbf70042e355315dd840b25ea237f8525e5970dd10f87534",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/05-sentiment-analysis/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/06-named-entity-recognition/docs/en.md": {
+      "sha256": "1234e5808229ac25f3c65b1fe1baab736e525591c4cf847cc28690af25d46e71",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/06-named-entity-recognition/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/07-pos-tagging-parsing/docs/en.md": {
+      "sha256": "044bc3c9c2dbfa4fe934ab64b29bdd6ad700d844f0b81322099837114216e7a4",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/07-pos-tagging-parsing/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/08-cnns-rnns-for-text/docs/en.md": {
+      "sha256": "de300997238be53f17d753a27aa36e25db7a9954981e6d15db2ecaa9626ccd58",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/08-cnns-rnns-for-text/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/09-sequence-to-sequence/docs/en.md": {
+      "sha256": "83d570d30ef505439edbbe90a16c984e6c5e552468ed53a54919b36d2dd43d49",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/09-sequence-to-sequence/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/10-attention-mechanism/docs/en.md": {
+      "sha256": "f31dde76b3cd616e1c7d242a9d36fc4f5dd2c4a8514bd026da2d4b9e652ae49b",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/10-attention-mechanism/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/11-machine-translation/docs/en.md": {
+      "sha256": "956eeb576fdea61cef4a66b8f4c6b1b1caa47eea8e7488aace436c9c177b09ca",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/11-machine-translation/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/12-text-summarization/docs/en.md": {
+      "sha256": "e7e011c97fe621ccceb6acf4fd4be8361f3c4aeb4c67e1a6f6de14a7f4d0e37c",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/12-text-summarization/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/13-question-answering/docs/en.md": {
+      "sha256": "9e90edfc73dad18cb7e3573b475877644e98c1cd2fba044f56f68d407d792e11",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/13-question-answering/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/14-information-retrieval-search/docs/en.md": {
+      "sha256": "b64c83e0d8da07d1dbcdd46920dfd856d4f2c71c8c5d4b4df34a55c9b09e2877",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/14-information-retrieval-search/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/15-topic-modeling/docs/en.md": {
+      "sha256": "c56309bf9b7efb091f262f73d4e7f3e7c33dadede636cccebc6cd0847e363da7",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/15-topic-modeling/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/16-text-generation-pre-transformer/docs/en.md": {
+      "sha256": "0699120c7e5f94b23be8cf0d926619593809874d3313e7aa33a87f04cdd65a1e",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/16-text-generation-pre-transformer/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/17-chatbots-rule-to-neural/docs/en.md": {
+      "sha256": "0ba04fddf0a6dba733eb9b2976a54fe880069fc1b1dd0bf43655c33f9efa028a",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/17-chatbots-rule-to-neural/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/18-multilingual-nlp/docs/en.md": {
+      "sha256": "4e5cb272b516ea843b78b5f81eada9f3a3723f07aabdd8c1a3a4f4254b9b7ad9",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/18-multilingual-nlp/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/19-subword-tokenization/docs/en.md": {
+      "sha256": "6d67e864430ef41e47f3c0e115faead61da03cad377dca5a69f77513afc8f3eb",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/19-subword-tokenization/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/20-structured-outputs-constrained-decoding/docs/en.md": {
+      "sha256": "96f9e65ec5ce003c11986ee6151c249547493a1daee8496af53b7ab44ce15a9f",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/20-structured-outputs-constrained-decoding/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/21-nli-textual-entailment/docs/en.md": {
+      "sha256": "551492a5bac8a983bbee72697cb22b0f06ae3c93790441b676b4a0390466f2eb",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/21-nli-textual-entailment/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/22-embedding-models-deep-dive/docs/en.md": {
+      "sha256": "092f78650d60ccb770ca19cc96d3ed1021122acb53327079850e1c38f6fc2fb0",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/22-embedding-models-deep-dive/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/23-chunking-strategies-rag/docs/en.md": {
+      "sha256": "3a512a59a108ea6d1d8a11d4cd2a026cd6d8236ce57cd4701bc68edce4619b8e",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/23-chunking-strategies-rag/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/24-coreference-resolution/docs/en.md": {
+      "sha256": "d41f6fefd34f898b70b1ab54197a31eee2784ef2d7c4f30c6184be33103ff6b2",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/24-coreference-resolution/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/25-entity-linking/docs/en.md": {
+      "sha256": "fd7d0fae00f7c551a9d65af027e72e178867194fabb502f074ea02156e8d9bcb",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/25-entity-linking/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/26-relation-extraction-kg/docs/en.md": {
+      "sha256": "f66dae32a93f997b6db4164480537c6040d54791cae492c43333f62aade1300f",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/26-relation-extraction-kg/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/27-llm-evaluation-frameworks/docs/en.md": {
+      "sha256": "3686b5cc1162bf868f77b023f640f1dc4eb4632ec8a461a76c6e205ec58948dd",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/27-llm-evaluation-frameworks/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/28-long-context-evaluation/docs/en.md": {
+      "sha256": "ce4965298789984430e294add24e44675a378a4dfea4c928bb8e83faef8edf50",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/28-long-context-evaluation/docs/zh.md"
+    },
+    "phases/05-nlp-foundations-to-advanced/29-dialogue-state-tracking/docs/en.md": {
+      "sha256": "0a6385f150807e028934c77a390675b8ba454701efcf69a83139f6370df3462b",
+      "zh_path": "phases/05-nlp-foundations-to-advanced/29-dialogue-state-tracking/docs/zh.md"
+    },
+    "phases/06-speech-and-audio/01-audio-fundamentals/docs/en.md": {
+      "sha256": "b50c405e879b2f560036ced3d62fdaccd8c1d5fa47604f823a8d99b2391095a6",
+      "zh_path": "phases/06-speech-and-audio/01-audio-fundamentals/docs/zh.md"
+    },
+    "phases/06-speech-and-audio/02-spectrograms-mel-features/docs/en.md": {
+      "sha256": "f59fdf24432cbb8cb256aac7d9dd723115935021614a42581160d74845c86568",
+      "zh_path": "phases/06-speech-and-audio/02-spectrograms-mel-features/docs/zh.md"
+    },
+    "phases/06-speech-and-audio/03-audio-classification/docs/en.md": {
+      "sha256": "64486be303f1cd4b946bc14b14deea31d26fa3819058dcc6972ebe5e8f5e8b24",
+      "zh_path": "phases/06-speech-and-audio/03-audio-classification/docs/zh.md"
+    },
+    "phases/06-speech-and-audio/04-speech-recognition-asr/docs/en.md": {
+      "sha256": "7829df599023de2842935f5e5c33b7498eb7e39275834576205ddeb3bad97a68",
+      "zh_path": "phases/06-speech-and-audio/04-speech-recognition-asr/docs/zh.md"
+    },
+    "phases/06-speech-and-audio/05-whisper-architecture-finetuning/docs/en.md": {
+      "sha256": "42441180bf175580dd5d283ddb18189fccecf6e457f912ce0b0c8f0fd251a3fe",
+      "zh_path": "phases/06-speech-and-audio/05-whisper-architecture-finetuning/docs/zh.md"
+    },
+    "phases/06-speech-and-audio/06-speaker-recognition-verification/docs/en.md": {
+      "sha256": "4bb79bbd757fd0e914cc34f680e0885bd44da9bef416f648d185b49a48974244",
+      "zh_path": "phases/06-speech-and-audio/06-speaker-recognition-verification/docs/zh.md"
+    },
+    "phases/06-speech-and-audio/07-text-to-speech/docs/en.md": {
+      "sha256": "6fd084ee0c6b48c2373097f146c53cc5977c314e695458fd231321da8dbd75dc",
+      "zh_path": "phases/06-speech-and-audio/07-text-to-speech/docs/zh.md"
+    },
+    "phases/06-speech-and-audio/08-voice-cloning-conversion/docs/en.md": {
+      "sha256": "7aeeb4bad05d312a0b4835eccb2c26bc85b618b7e5be1459b7cf7ade6bc05d6d",
+      "zh_path": "phases/06-speech-and-audio/08-voice-cloning-conversion/docs/zh.md"
+    },
+    "phases/06-speech-and-audio/09-music-generation/docs/en.md": {
+      "sha256": "76ee31168868d1150bd16258da9c9b29ec83d5143b09a69281cd3869ba60a22f",
+      "zh_path": "phases/06-speech-and-audio/09-music-generation/docs/zh.md"
+    },
+    "phases/06-speech-and-audio/10-audio-language-models/docs/en.md": {
+      "sha256": "18903bb387ac12665b576a55c2d83718b019d0c239add8796a488feb8268bb9c",
+      "zh_path": "phases/06-speech-and-audio/10-audio-language-models/docs/zh.md"
+    },
+    "phases/06-speech-and-audio/11-real-time-audio-processing/docs/en.md": {
+      "sha256": "38770fe883e05dd7bc541c3d3dbca612686e46d48c7d9a2f4ab2b8b9bb9735db",
+      "zh_path": "phases/06-speech-and-audio/11-real-time-audio-processing/docs/zh.md"
+    },
+    "phases/06-speech-and-audio/12-voice-assistant-pipeline/docs/en.md": {
+      "sha256": "2f75128b87fe29f814e7d60edc062dfb9a212ce827b1697ed71df7da4d7d2a71",
+      "zh_path": "phases/06-speech-and-audio/12-voice-assistant-pipeline/docs/zh.md"
+    },
+    "phases/06-speech-and-audio/13-neural-audio-codecs/docs/en.md": {
+      "sha256": "ec86cd8ecca4976b4c3471c6c2069574d8e0af9f4afd646768a9bf35e4c2d58d",
+      "zh_path": "phases/06-speech-and-audio/13-neural-audio-codecs/docs/zh.md"
+    },
+    "phases/06-speech-and-audio/14-voice-activity-detection-turn-taking/docs/en.md": {
+      "sha256": "1a6c532956c74307ff85a499442872f0c41648cf403e14e2a7968831e7d7adc3",
+      "zh_path": "phases/06-speech-and-audio/14-voice-activity-detection-turn-taking/docs/zh.md"
+    },
+    "phases/06-speech-and-audio/15-streaming-speech-to-speech-moshi-hibiki/docs/en.md": {
+      "sha256": "34d88a73d5c6351461ce985332f3f2424d99879ce9cc6ceeb4059d04212700ba",
+      "zh_path": "phases/06-speech-and-audio/15-streaming-speech-to-speech-moshi-hibiki/docs/zh.md"
+    },
+    "phases/06-speech-and-audio/16-anti-spoofing-audio-watermarking/docs/en.md": {
+      "sha256": "4dd97c10f376fefc56b8f6e6700f6ec01ed6f6e63772097f9a9fb9850339a0c0",
+      "zh_path": "phases/06-speech-and-audio/16-anti-spoofing-audio-watermarking/docs/zh.md"
+    },
+    "phases/06-speech-and-audio/17-audio-evaluation-metrics/docs/en.md": {
+      "sha256": "f156e0c82719ecdaea16ceddd109ea4c892dcf9d60d587aff09e7531a46ed173",
+      "zh_path": "phases/06-speech-and-audio/17-audio-evaluation-metrics/docs/zh.md"
+    },
+    "phases/07-transformers-deep-dive/01-why-transformers/docs/en.md": {
+      "sha256": "fa4494b049a525560020f69a55b3001fed7667358f815d852e33e355b1c227a5",
+      "zh_path": "phases/07-transformers-deep-dive/01-why-transformers/docs/zh.md"
+    },
+    "phases/07-transformers-deep-dive/02-self-attention-from-scratch/docs/en.md": {
+      "sha256": "54a8d6da2e4f1ea0b0b43a1bf09be1b3c41e2d5b974cef459b0ab8ea0af18177",
+      "zh_path": "phases/07-transformers-deep-dive/02-self-attention-from-scratch/docs/zh.md"
+    },
+    "phases/07-transformers-deep-dive/03-multi-head-attention/docs/en.md": {
+      "sha256": "143eb42fb1de2307cda1f2231b8d5cbb2144deced1dfd717a2c789edbf667f81",
+      "zh_path": "phases/07-transformers-deep-dive/03-multi-head-attention/docs/zh.md"
+    },
+    "phases/07-transformers-deep-dive/04-positional-encoding/docs/en.md": {
+      "sha256": "c7e45e8178d68f5a75b790a84c81a6749b2f2f54c88e30c3f36fabc705a0a511",
+      "zh_path": "phases/07-transformers-deep-dive/04-positional-encoding/docs/zh.md"
+    },
+    "phases/07-transformers-deep-dive/05-full-transformer/docs/en.md": {
+      "sha256": "cb33225ca1b2bbaf32a06d637343c22fbaaf3083081bcf04479409c53070a662",
+      "zh_path": "phases/07-transformers-deep-dive/05-full-transformer/docs/zh.md"
+    },
+    "phases/07-transformers-deep-dive/06-bert-masked-language-modeling/docs/en.md": {
+      "sha256": "10d1685c0fc344868e948575ae3bf51cb0058e6b0f07a247c20eafcc858f7b70",
+      "zh_path": "phases/07-transformers-deep-dive/06-bert-masked-language-modeling/docs/zh.md"
+    },
+    "phases/07-transformers-deep-dive/07-gpt-causal-language-modeling/docs/en.md": {
+      "sha256": "ec3e223384a22c7b0732ed01fd44de280472c20f7d44d0cfdd81971ab0432dca",
+      "zh_path": "phases/07-transformers-deep-dive/07-gpt-causal-language-modeling/docs/zh.md"
+    },
+    "phases/07-transformers-deep-dive/08-t5-bart-encoder-decoder/docs/en.md": {
+      "sha256": "5fe1b25c8875dde2c08314e19939a43485ae52ed8c008219bbaf659b82f8dc04",
+      "zh_path": "phases/07-transformers-deep-dive/08-t5-bart-encoder-decoder/docs/zh.md"
+    },
+    "phases/07-transformers-deep-dive/09-vision-transformers/docs/en.md": {
+      "sha256": "2bf9d9948829dc767ac5eeec25c5b7e1428054da2a325e1aef1eb28209d8b0a0",
+      "zh_path": "phases/07-transformers-deep-dive/09-vision-transformers/docs/zh.md"
+    },
+    "phases/07-transformers-deep-dive/10-audio-transformers-whisper/docs/en.md": {
+      "sha256": "959e04eb97f0229855843060b11ce517eccab64a5fd423dfde96638ca20b3bf3",
+      "zh_path": "phases/07-transformers-deep-dive/10-audio-transformers-whisper/docs/zh.md"
+    },
+    "phases/07-transformers-deep-dive/11-mixture-of-experts/docs/en.md": {
+      "sha256": "3e9267af94c2531bc8f73067885ba355241d4e51e6c29ef25cdbc1aa070a299c",
+      "zh_path": "phases/07-transformers-deep-dive/11-mixture-of-experts/docs/zh.md"
+    },
+    "phases/07-transformers-deep-dive/12-kv-cache-flash-attention/docs/en.md": {
+      "sha256": "b93352bcfa28b0ae8b1a60fe52a6078d37066e2df8b291c428fa3422a4ab79dc",
+      "zh_path": "phases/07-transformers-deep-dive/12-kv-cache-flash-attention/docs/zh.md"
+    },
+    "phases/07-transformers-deep-dive/13-scaling-laws/docs/en.md": {
+      "sha256": "aac8b47ac5c315771ce177f36d9cf99a6cbc6a23f9208bf77b23dfe4a3b0dc39",
+      "zh_path": "phases/07-transformers-deep-dive/13-scaling-laws/docs/zh.md"
+    },
+    "phases/07-transformers-deep-dive/14-build-a-transformer-capstone/docs/en.md": {
+      "sha256": "6d85144439e2f2d45520b44eb414686242eb34e3356a8266ecc0b352c49c9c47",
+      "zh_path": "phases/07-transformers-deep-dive/14-build-a-transformer-capstone/docs/zh.md"
+    },
+    "phases/07-transformers-deep-dive/15-attention-variants/docs/en.md": {
+      "sha256": "cd5ba2d28dd24fc6eb57f4477148156d5d5be31a8e157efcdcf00b914a9dfb48",
+      "zh_path": "phases/07-transformers-deep-dive/15-attention-variants/docs/zh.md"
+    },
+    "phases/07-transformers-deep-dive/16-speculative-decoding/docs/en.md": {
+      "sha256": "f1f74ee5996a27cbc75417ffd7be5da27a2357946cf63dcbd66d90f82f6290d6",
+      "zh_path": "phases/07-transformers-deep-dive/16-speculative-decoding/docs/zh.md"
+    },
+    "phases/08-generative-ai/01-generative-models-taxonomy-history/docs/en.md": {
+      "sha256": "ca9c5e90702b50ed6096eff6601500632b4fd0035f23986b24c6ebd811751856",
+      "zh_path": "phases/08-generative-ai/01-generative-models-taxonomy-history/docs/zh.md"
+    },
+    "phases/08-generative-ai/02-autoencoders-vae/docs/en.md": {
+      "sha256": "09d80cdcdfbcc7fcd85dcdba56b67cf8923e05ec5883f1f4c5f4525ae82d14b6",
+      "zh_path": "phases/08-generative-ai/02-autoencoders-vae/docs/zh.md"
+    },
+    "phases/08-generative-ai/03-gans-generator-discriminator/docs/en.md": {
+      "sha256": "db7fe86ffad9d10f6c5a3af0a1192fde88538af04589e34a21472b8769a1cdf8",
+      "zh_path": "phases/08-generative-ai/03-gans-generator-discriminator/docs/zh.md"
+    },
+    "phases/08-generative-ai/04-conditional-gans-pix2pix/docs/en.md": {
+      "sha256": "5539062e7b1e4c4ca0fd27590bf1fc84774a6c190c02a9b1743725c0380d92ed",
+      "zh_path": "phases/08-generative-ai/04-conditional-gans-pix2pix/docs/zh.md"
+    },
+    "phases/08-generative-ai/05-stylegan/docs/en.md": {
+      "sha256": "bde9074b31a6875419801e0700f615d6f642382b597d8ce006b17c7bf4f509b5",
+      "zh_path": "phases/08-generative-ai/05-stylegan/docs/zh.md"
+    },
+    "phases/08-generative-ai/06-diffusion-ddpm-from-scratch/docs/en.md": {
+      "sha256": "f62dd0eaa055920ebe0ae369fd734c5b0e6ab90ce3f31f485487d7d4cd7a86f8",
+      "zh_path": "phases/08-generative-ai/06-diffusion-ddpm-from-scratch/docs/zh.md"
+    },
+    "phases/08-generative-ai/07-latent-diffusion-stable-diffusion/docs/en.md": {
+      "sha256": "31a712aa953cffde8d835b2d6776923c98ca0946f06adb2c53f2694863ba6941",
+      "zh_path": "phases/08-generative-ai/07-latent-diffusion-stable-diffusion/docs/zh.md"
+    },
+    "phases/08-generative-ai/08-controlnet-lora-conditioning/docs/en.md": {
+      "sha256": "49b0ae39ac1cff4a58a2be621d94128a4d0a11e4cc4913dcc9e599ff08215cf4",
+      "zh_path": "phases/08-generative-ai/08-controlnet-lora-conditioning/docs/zh.md"
+    },
+    "phases/08-generative-ai/09-inpainting-outpainting-editing/docs/en.md": {
+      "sha256": "89ce2bc27f80ea1a66c416327045674d98c28f50081e67d5176c9fb24aefdcfe",
+      "zh_path": "phases/08-generative-ai/09-inpainting-outpainting-editing/docs/zh.md"
+    },
+    "phases/08-generative-ai/10-video-generation/docs/en.md": {
+      "sha256": "3d6f6c844a40264a36855729f023bd04f59abe69ec10435199f5ed3efb5af7b6",
+      "zh_path": "phases/08-generative-ai/10-video-generation/docs/zh.md"
+    },
+    "phases/08-generative-ai/11-audio-generation/docs/en.md": {
+      "sha256": "a11150a145ad0e24cb623e785dbcbcb578ada4b34f1e6ada67eaf772fc43694d",
+      "zh_path": "phases/08-generative-ai/11-audio-generation/docs/zh.md"
+    },
+    "phases/08-generative-ai/12-3d-generation/docs/en.md": {
+      "sha256": "9030b2f578b4ada35cc49977d479a6a8631ec4ae65e85f0b2f9ef4f3988c6ceb",
+      "zh_path": "phases/08-generative-ai/12-3d-generation/docs/zh.md"
+    },
+    "phases/08-generative-ai/13-flow-matching-rectified-flows/docs/en.md": {
+      "sha256": "e8c61cb0cb5f16a36fc296f16f1d88a6d98c9c0556285291c9a4ebe4591d9b2e",
+      "zh_path": "phases/08-generative-ai/13-flow-matching-rectified-flows/docs/zh.md"
+    },
+    "phases/08-generative-ai/14-evaluation-fid-clip-score/docs/en.md": {
+      "sha256": "721e8f9e35ce440c5f0a8345f3ca7fafd8c5a4d173e32f71b455498d46ac1d45",
+      "zh_path": "phases/08-generative-ai/14-evaluation-fid-clip-score/docs/zh.md"
+    },
+    "phases/08-generative-ai/19-visual-autoregressive-var/docs/en.md": {
+      "sha256": "3ecfef4255beadae88cd0b8f560a7b1eab29933c533383fc277fa56d5bcd46e9",
+      "zh_path": "phases/08-generative-ai/19-visual-autoregressive-var/docs/zh.md"
+    },
+    "phases/09-reinforcement-learning/01-mdps-states-actions-rewards/docs/en.md": {
+      "sha256": "f76f951e47c846acfca9192d910a9e72a28944d109a90b76e403131ffd07af9b",
+      "zh_path": "phases/09-reinforcement-learning/01-mdps-states-actions-rewards/docs/zh.md"
+    },
+    "phases/09-reinforcement-learning/02-dynamic-programming/docs/en.md": {
+      "sha256": "131aab723d6114b139761208cdc5fb9ae0363262c57d31e66903650a2fbd81a5",
+      "zh_path": "phases/09-reinforcement-learning/02-dynamic-programming/docs/zh.md"
+    },
+    "phases/09-reinforcement-learning/03-monte-carlo-methods/docs/en.md": {
+      "sha256": "59ed85c22bceb45e65a953b3cc10cc54fec517a3ef5a35a901f69d433b947991",
+      "zh_path": "phases/09-reinforcement-learning/03-monte-carlo-methods/docs/zh.md"
+    },
+    "phases/09-reinforcement-learning/04-q-learning-sarsa/docs/en.md": {
+      "sha256": "05b289d714aec7c06d0f1c9d5e048fb35dd020a71607f3c27c4983f3675563da",
+      "zh_path": "phases/09-reinforcement-learning/04-q-learning-sarsa/docs/zh.md"
+    },
+    "phases/09-reinforcement-learning/05-dqn/docs/en.md": {
+      "sha256": "2dcfc3c86cd89e10caf2662c60406f23a3c50e7fd2d4971018fa13c9c355d909",
+      "zh_path": "phases/09-reinforcement-learning/05-dqn/docs/zh.md"
+    },
+    "phases/09-reinforcement-learning/06-policy-gradients-reinforce/docs/en.md": {
+      "sha256": "2f358ef609291528bc89714ac09804eca44030072138f39224f60dc138096a7a",
+      "zh_path": "phases/09-reinforcement-learning/06-policy-gradients-reinforce/docs/zh.md"
+    },
+    "phases/09-reinforcement-learning/07-actor-critic-a2c-a3c/docs/en.md": {
+      "sha256": "06071a9fb30107d9cab54ed29ecb94b352be4ef8f4b8479f7f62bd9c0b3caa24",
+      "zh_path": "phases/09-reinforcement-learning/07-actor-critic-a2c-a3c/docs/zh.md"
+    },
+    "phases/09-reinforcement-learning/08-ppo/docs/en.md": {
+      "sha256": "2c174dd064e77e69e4cff38c3cfc2439f7c0d76b50aab764f8c020858d61f8de",
+      "zh_path": "phases/09-reinforcement-learning/08-ppo/docs/zh.md"
+    },
+    "phases/09-reinforcement-learning/09-reward-modeling-rlhf/docs/en.md": {
+      "sha256": "65b496409e7bd3368e58fe7ddeb851ed5d89a4eb8336bde968ba5f8a8632d7fa",
+      "zh_path": "phases/09-reinforcement-learning/09-reward-modeling-rlhf/docs/zh.md"
+    },
+    "phases/09-reinforcement-learning/10-multi-agent-rl/docs/en.md": {
+      "sha256": "94c780e276be3f271c131fd579c17026b58c69279e9477930e5cc5aea71b7f37",
+      "zh_path": "phases/09-reinforcement-learning/10-multi-agent-rl/docs/zh.md"
+    },
+    "phases/09-reinforcement-learning/11-sim-to-real-transfer/docs/en.md": {
+      "sha256": "6a727b50a922ba9f68860ed740d7ec8b982f0f0837a54505aee6e7e42757cf7c",
+      "zh_path": "phases/09-reinforcement-learning/11-sim-to-real-transfer/docs/zh.md"
+    },
+    "phases/09-reinforcement-learning/12-rl-for-games/docs/en.md": {
+      "sha256": "12e39022b88e2506373a09fc165d3ab33e4cebe3e5dc8148ff6a6f0fd42b26d8",
+      "zh_path": "phases/09-reinforcement-learning/12-rl-for-games/docs/zh.md"
+    },
+    "phases/10-llms-from-scratch/01-tokenizers/docs/en.md": {
+      "sha256": "a610edfbc9557f582cfcc1fddeefe3e3f34b3dd62da00341836af00579156669",
+      "zh_path": "phases/10-llms-from-scratch/01-tokenizers/docs/zh.md"
+    },
+    "phases/10-llms-from-scratch/02-building-a-tokenizer/docs/en.md": {
+      "sha256": "3e2af805d324028b1c673be3bebad6f17dc74ca2ffa0f1f050aa2d5d56d61da1",
+      "zh_path": "phases/10-llms-from-scratch/02-building-a-tokenizer/docs/zh.md"
+    },
+    "phases/10-llms-from-scratch/03-data-pipelines/docs/en.md": {
+      "sha256": "992f4d285e592962ba15ce74bcc898e323c054fe59005525c8b5719af494b703",
+      "zh_path": "phases/10-llms-from-scratch/03-data-pipelines/docs/zh.md"
+    },
+    "phases/10-llms-from-scratch/04-pre-training-mini-gpt/docs/en.md": {
+      "sha256": "5c3f2214d795c44638f037e6b2493e3190516a5bf89202060467298dc2f39dbb",
+      "zh_path": "phases/10-llms-from-scratch/04-pre-training-mini-gpt/docs/zh.md"
+    },
+    "phases/10-llms-from-scratch/05-scaling-distributed/docs/en.md": {
+      "sha256": "b9ae0ccea1f097aa7d3715f6578a007b167d065be32530ebb83dec516b2ca406",
+      "zh_path": "phases/10-llms-from-scratch/05-scaling-distributed/docs/zh.md"
+    },
+    "phases/10-llms-from-scratch/06-instruction-tuning-sft/docs/en.md": {
+      "sha256": "67e5101e42aabc5416142453c5cb07db9f47543a68ebf69deaf8662c6b53a956",
+      "zh_path": "phases/10-llms-from-scratch/06-instruction-tuning-sft/docs/zh.md"
+    },
+    "phases/10-llms-from-scratch/07-rlhf/docs/en.md": {
+      "sha256": "0e599cb378e8f0291f17d037d75f07cde24451c27ac335a1dbfa49f026524090",
+      "zh_path": "phases/10-llms-from-scratch/07-rlhf/docs/zh.md"
+    },
+    "phases/10-llms-from-scratch/08-dpo/docs/en.md": {
+      "sha256": "a295d8092c3cba3c2595bbddb731802cc062d9e9cb686b6a5e7196e2eba4d4ed",
+      "zh_path": "phases/10-llms-from-scratch/08-dpo/docs/zh.md"
+    },
+    "phases/10-llms-from-scratch/09-constitutional-ai-self-improvement/docs/en.md": {
+      "sha256": "9c2b64ac4f16fc9d57c34ee8e8eec166bac05e9c16112ebd87af868701b2a515",
+      "zh_path": "phases/10-llms-from-scratch/09-constitutional-ai-self-improvement/docs/zh.md"
+    },
+    "phases/10-llms-from-scratch/10-evaluation/docs/en.md": {
+      "sha256": "1fe848a214fc3517fb8de9a979096f340d3dafcca3f1520f98ac9a89dfe4609a",
+      "zh_path": "phases/10-llms-from-scratch/10-evaluation/docs/zh.md"
+    },
+    "phases/10-llms-from-scratch/11-quantization/docs/en.md": {
+      "sha256": "3b2f13de5a6d1cbe12a4180de7fc40ed764de86214815e5543a8bf41a3ffa2df",
+      "zh_path": "phases/10-llms-from-scratch/11-quantization/docs/zh.md"
+    },
+    "phases/10-llms-from-scratch/12-inference-optimization/docs/en.md": {
+      "sha256": "c59214310eb0f9d399c723912c29138426ad1b33c7d5b8ae29986125279dc072",
+      "zh_path": "phases/10-llms-from-scratch/12-inference-optimization/docs/zh.md"
+    },
+    "phases/10-llms-from-scratch/13-building-complete-llm-pipeline/docs/en.md": {
+      "sha256": "920dc5da6f447e4b4c41e45f6c967a4a05622cd0e60b8f827e6aeaee5e114463",
+      "zh_path": "phases/10-llms-from-scratch/13-building-complete-llm-pipeline/docs/zh.md"
+    },
+    "phases/10-llms-from-scratch/14-open-models-architecture-walkthroughs/docs/en.md": {
+      "sha256": "3786ce2336c30cb590bc56bb9d3b04b6ba937121d3de4a4fe20cefad9c6d286c",
+      "zh_path": "phases/10-llms-from-scratch/14-open-models-architecture-walkthroughs/docs/zh.md"
+    },
+    "phases/10-llms-from-scratch/15-speculative-decoding-eagle3/docs/en.md": {
+      "sha256": "71e0933c5542ce1d9bda0e02340a78bcad5ee5876c3a993820684d8821493414",
+      "zh_path": "phases/10-llms-from-scratch/15-speculative-decoding-eagle3/docs/zh.md"
+    },
+    "phases/10-llms-from-scratch/16-differential-attention-v2/docs/en.md": {
+      "sha256": "89705e3112b66cdf2bb5444d632cafb5c4b168fe4693e534c92fb0d1051ae5df",
+      "zh_path": "phases/10-llms-from-scratch/16-differential-attention-v2/docs/zh.md"
+    },
+    "phases/10-llms-from-scratch/17-native-sparse-attention/docs/en.md": {
+      "sha256": "ad7929f9d22e8abedc598a0c9779ac28461ac789d853787ac047a172a04d0755",
+      "zh_path": "phases/10-llms-from-scratch/17-native-sparse-attention/docs/zh.md"
+    },
+    "phases/10-llms-from-scratch/18-multi-token-prediction/docs/en.md": {
+      "sha256": "225fde620cc6b57f80d64b86f59248c73d3d4ff180669aaf41c90a3799756f35",
+      "zh_path": "phases/10-llms-from-scratch/18-multi-token-prediction/docs/zh.md"
+    },
+    "phases/10-llms-from-scratch/19-dualpipe-parallelism/docs/en.md": {
+      "sha256": "281c6d6c76b8c64f6b80f61accd664241985e31d2ff36795c016d8746b1ccd99",
+      "zh_path": "phases/10-llms-from-scratch/19-dualpipe-parallelism/docs/zh.md"
+    },
+    "phases/10-llms-from-scratch/20-deepseek-v3-walkthrough/docs/en.md": {
+      "sha256": "04d8e96b26fd1cbfe18298e60320deff1339f9b052572b7144379ee59717d2e3",
+      "zh_path": "phases/10-llms-from-scratch/20-deepseek-v3-walkthrough/docs/zh.md"
+    },
+    "phases/10-llms-from-scratch/21-jamba-hybrid-ssm-transformer/docs/en.md": {
+      "sha256": "cc5b0d19b7cb44011c94c603517e7a8eb659df2e2b58043e5d89cd1299191ab8",
+      "zh_path": "phases/10-llms-from-scratch/21-jamba-hybrid-ssm-transformer/docs/zh.md"
+    },
+    "phases/10-llms-from-scratch/22-async-hogwild-inference/docs/en.md": {
+      "sha256": "2ae5527935376bc320f68a0dc4563963b7887da9376394152477e8bfc2e31f23",
+      "zh_path": "phases/10-llms-from-scratch/22-async-hogwild-inference/docs/zh.md"
+    },
+    "phases/10-llms-from-scratch/25-speculative-decoding/docs/en.md": {
+      "sha256": "a5ba5282949594418b8cbd2a5755aaf9c31ba95b1af75f077303e54fadd208f4",
+      "zh_path": "phases/10-llms-from-scratch/25-speculative-decoding/docs/zh.md"
+    },
+    "phases/10-llms-from-scratch/34-gradient-checkpointing/docs/en.md": {
+      "sha256": "5a284f5ddb3dd2b4a545a15abce10cd436603abf5429d63e08bd3e3a57570ea5",
+      "zh_path": "phases/10-llms-from-scratch/34-gradient-checkpointing/docs/zh.md"
+    },
+    "phases/11-llm-engineering/01-prompt-engineering/docs/en.md": {
+      "sha256": "4ce3f88636a37ae8e6375d196c523bb3661b6c95c3d49c55c75bbbe89c9ee5e4",
+      "zh_path": "phases/11-llm-engineering/01-prompt-engineering/docs/zh.md"
+    },
+    "phases/11-llm-engineering/02-few-shot-cot/docs/en.md": {
+      "sha256": "d2449b0b110550af6d7172bce68c78274656067bd1fcb5c72e0a138fd9131f61",
+      "zh_path": "phases/11-llm-engineering/02-few-shot-cot/docs/zh.md"
+    },
+    "phases/11-llm-engineering/03-structured-outputs/docs/en.md": {
+      "sha256": "d21c8e61b1f9ee30ccc30844d1461b1da8ac4d090c4eb1250307703ef1fa297d",
+      "zh_path": "phases/11-llm-engineering/03-structured-outputs/docs/zh.md"
+    },
+    "phases/11-llm-engineering/04-embeddings/docs/en.md": {
+      "sha256": "9c3115093f152ce871351f278f9e08a2322849bfaa9af54bb5339b5874f2b401",
+      "zh_path": "phases/11-llm-engineering/04-embeddings/docs/zh.md"
+    },
+    "phases/11-llm-engineering/05-context-engineering/docs/en.md": {
+      "sha256": "998973028651cccad74197875d2a9e0781b759b97bd9059366d957a963636e5d",
+      "zh_path": "phases/11-llm-engineering/05-context-engineering/docs/zh.md"
+    },
+    "phases/11-llm-engineering/06-rag/docs/en.md": {
+      "sha256": "130d2cc39bcd0af7d07e99357620a32801fdbada0d36c60ecd6cd201f2b9fcd7",
+      "zh_path": "phases/11-llm-engineering/06-rag/docs/zh.md"
+    },
+    "phases/11-llm-engineering/07-advanced-rag/docs/en.md": {
+      "sha256": "4cb6a626e7851c456a11d38ec2b4193d85adbe465ee3ff0a2bf1c09b1667f10a",
+      "zh_path": "phases/11-llm-engineering/07-advanced-rag/docs/zh.md"
+    },
+    "phases/11-llm-engineering/08-fine-tuning-lora/docs/en.md": {
+      "sha256": "6e6752387e06906ae70b2300d8bf5f2457b2a4f25c85895b10c724db9bee083a",
+      "zh_path": "phases/11-llm-engineering/08-fine-tuning-lora/docs/zh.md"
+    },
+    "phases/11-llm-engineering/09-function-calling/docs/en.md": {
+      "sha256": "1b98bfa45d537fbc525851d7d1759c971993f61d83e985513df609eec17cd5c1",
+      "zh_path": "phases/11-llm-engineering/09-function-calling/docs/zh.md"
+    },
+    "phases/11-llm-engineering/10-evaluation/docs/en.md": {
+      "sha256": "1b64553f6b7122c14c875e13f244b81ad259366808df71485b1ca26c17aa9a7a",
+      "zh_path": "phases/11-llm-engineering/10-evaluation/docs/zh.md"
+    },
+    "phases/11-llm-engineering/11-caching-cost/docs/en.md": {
+      "sha256": "2f18199a61008bad59be95abe7337c0c370018865028c7e4af9cfa84f355dc15",
+      "zh_path": "phases/11-llm-engineering/11-caching-cost/docs/zh.md"
+    },
+    "phases/11-llm-engineering/12-guardrails/docs/en.md": {
+      "sha256": "7bca84f499c6a75c2f97253f3fa4cf85befb0fbcf66e4c882e125279686ad73f",
+      "zh_path": "phases/11-llm-engineering/12-guardrails/docs/zh.md"
+    },
+    "phases/11-llm-engineering/13-production-app/docs/en.md": {
+      "sha256": "02cc49d8a6c5424c35a66e92361230fcfcc3ad127ae009f646f03c6d611db716",
+      "zh_path": "phases/11-llm-engineering/13-production-app/docs/zh.md"
+    },
+    "phases/11-llm-engineering/14-model-context-protocol/docs/en.md": {
+      "sha256": "a654f24a78a0fa9ff5aa5ef8dac067ba74c19eb651f7fd2ea9a893f25cfcf413",
+      "zh_path": "phases/11-llm-engineering/14-model-context-protocol/docs/zh.md"
+    },
+    "phases/11-llm-engineering/15-prompt-caching/docs/en.md": {
+      "sha256": "31275e64f1f1c088e718f810652a1263dce1a9c880a9fdc442260061c4be9d61",
+      "zh_path": "phases/11-llm-engineering/15-prompt-caching/docs/zh.md"
+    },
+    "phases/11-llm-engineering/16-langgraph-state-machines/docs/en.md": {
+      "sha256": "f11800fd32b92cb304aa1c998c0154f7054310d1fc9ad0e0bc0659ef915c1c21",
+      "zh_path": "phases/11-llm-engineering/16-langgraph-state-machines/docs/zh.md"
+    },
+    "phases/11-llm-engineering/17-agent-framework-tradeoffs/docs/en.md": {
+      "sha256": "4639fd2af293dae46e9ad08b78b20d5bca216239f20113e8a872851a90a0782a",
+      "zh_path": "phases/11-llm-engineering/17-agent-framework-tradeoffs/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/01-vision-transformer-patch-tokens/docs/en.md": {
+      "sha256": "05fc1bb5a0e7a1777da50ae42ea01a6b5ae17c066bf1a5fa8c53208f5482dd60",
+      "zh_path": "phases/12-multimodal-ai/01-vision-transformer-patch-tokens/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/02-clip-contrastive-pretraining/docs/en.md": {
+      "sha256": "802bc398424324f3a203a4f8f468f1e21d327372a1a273db23dbe2d675d6d07d",
+      "zh_path": "phases/12-multimodal-ai/02-clip-contrastive-pretraining/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/03-blip2-qformer-bridge/docs/en.md": {
+      "sha256": "bd16088e7bab4c11a61824c8975a4fb7763ec8b8ee5cd0363f8d0626cdfacbf1",
+      "zh_path": "phases/12-multimodal-ai/03-blip2-qformer-bridge/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/04-flamingo-gated-cross-attention/docs/en.md": {
+      "sha256": "a180e4f9895b81991f8de8c517aeb1ca497c1e013642a0cb98a80b58115a0b13",
+      "zh_path": "phases/12-multimodal-ai/04-flamingo-gated-cross-attention/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/05-llava-visual-instruction-tuning/docs/en.md": {
+      "sha256": "b52fe558abde61f69a3b80ffb2475c9251a35403ec137ff55d0f88e319721644",
+      "zh_path": "phases/12-multimodal-ai/05-llava-visual-instruction-tuning/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/06-any-resolution-patch-n-pack/docs/en.md": {
+      "sha256": "ea07211dc4a00a0d2344e7171a760c86899fdb568a5603f15e787e4ae854076c",
+      "zh_path": "phases/12-multimodal-ai/06-any-resolution-patch-n-pack/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/07-open-weight-vlm-recipes/docs/en.md": {
+      "sha256": "a491f310af593fdd490ace86f9743159848bc92bbe59461cf7ad2ff700cf4ff7",
+      "zh_path": "phases/12-multimodal-ai/07-open-weight-vlm-recipes/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/08-llava-onevision-single-multi-video/docs/en.md": {
+      "sha256": "e724ac7ebf446f23d7b4f7c7b2ceaad9b756e84affe4f04fe3dae5ea126d9c97",
+      "zh_path": "phases/12-multimodal-ai/08-llava-onevision-single-multi-video/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/09-qwen-vl-family-dynamic-fps/docs/en.md": {
+      "sha256": "8ef6b7bac8b8ab7758553a36994c338eb39d3c56d8c79b9c43e900f5266c21db",
+      "zh_path": "phases/12-multimodal-ai/09-qwen-vl-family-dynamic-fps/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/10-internvl3-native-multimodal/docs/en.md": {
+      "sha256": "a0b2e23574ce71f9b80e81517717b5be7156d0fd2d071fdd9ecc52e3dd0c0b9f",
+      "zh_path": "phases/12-multimodal-ai/10-internvl3-native-multimodal/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/11-chameleon-early-fusion-tokens/docs/en.md": {
+      "sha256": "485ed7cf917795d956d306b7a2d1b3ce62e776c1046966ac1bbca1f2fb191560",
+      "zh_path": "phases/12-multimodal-ai/11-chameleon-early-fusion-tokens/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/12-emu3-next-token-for-generation/docs/en.md": {
+      "sha256": "93e0416f6c510b7e5147e5229cad41415c612900784666a2193baf07ad0658ab",
+      "zh_path": "phases/12-multimodal-ai/12-emu3-next-token-for-generation/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/13-transfusion-autoregressive-diffusion/docs/en.md": {
+      "sha256": "851aea4cfd38ec82820a2673ae3644ad5c377d29a987993507b19378b79fe7d1",
+      "zh_path": "phases/12-multimodal-ai/13-transfusion-autoregressive-diffusion/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/14-show-o-discrete-diffusion-unified/docs/en.md": {
+      "sha256": "e10e624e4feb782f70d86ce66cdd342b76418d7a12e6200fe20199c58428b8be",
+      "zh_path": "phases/12-multimodal-ai/14-show-o-discrete-diffusion-unified/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/15-janus-pro-decoupled-encoders/docs/en.md": {
+      "sha256": "5dfeef0d7be96eac3681af1901d86c7121cc040f859772505b7f7e24bd5a4fae",
+      "zh_path": "phases/12-multimodal-ai/15-janus-pro-decoupled-encoders/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/16-mio-any-to-any-streaming/docs/en.md": {
+      "sha256": "3c5dc8ff2844672ce37bd2e86a0cda3a364c9560699a0e099aba929fe19f7f7a",
+      "zh_path": "phases/12-multimodal-ai/16-mio-any-to-any-streaming/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/17-video-language-temporal-grounding/docs/en.md": {
+      "sha256": "b67903d5dee7221aec502ff55e652dd7a33224b51ef3d0cb21e077d03d735a4e",
+      "zh_path": "phases/12-multimodal-ai/17-video-language-temporal-grounding/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/18-long-video-million-token/docs/en.md": {
+      "sha256": "db83fb36e53bb3e958de0b3c596628ac4c01a8f2f133ea5002750c93e921c772",
+      "zh_path": "phases/12-multimodal-ai/18-long-video-million-token/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/19-audio-language-whisper-to-af3/docs/en.md": {
+      "sha256": "0dc901360429634df28c47d95f515cc0d3ef6da7f9dbe978ec1206382a40abab",
+      "zh_path": "phases/12-multimodal-ai/19-audio-language-whisper-to-af3/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/20-omni-models-thinker-talker/docs/en.md": {
+      "sha256": "9698afcffae6780150565f63291dc58bd2f2cbc073968cfc5fb3e3cd351cfe56",
+      "zh_path": "phases/12-multimodal-ai/20-omni-models-thinker-talker/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/21-embodied-vlas-openvla-pi0-groot/docs/en.md": {
+      "sha256": "dc7d79131146baa2fad88659df5cf98a8dfda5ed20faa081ea9de7c4cee71b59",
+      "zh_path": "phases/12-multimodal-ai/21-embodied-vlas-openvla-pi0-groot/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/22-document-diagram-understanding/docs/en.md": {
+      "sha256": "b0a271e28a38bdb8af47ec26108757952b1231ba2706c9eeac3edcdf99afa820",
+      "zh_path": "phases/12-multimodal-ai/22-document-diagram-understanding/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/23-colpali-vision-native-rag/docs/en.md": {
+      "sha256": "d97f1ed06fffcdf6d348c0de0d4f3dd2fef0cb8cf6f00db1861c7f736812bf9e",
+      "zh_path": "phases/12-multimodal-ai/23-colpali-vision-native-rag/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/24-multimodal-rag-cross-modal/docs/en.md": {
+      "sha256": "a6ca5fe5955a514ca5c1f85c9c3c9286e4c7a8b6b4836f3e4d003eacf9289ebe",
+      "zh_path": "phases/12-multimodal-ai/24-multimodal-rag-cross-modal/docs/zh.md"
+    },
+    "phases/12-multimodal-ai/25-multimodal-agents-computer-use/docs/en.md": {
+      "sha256": "505d63364d47d20303e434c5e93e13787965cbdd27c1e30c66961ec24765e584",
+      "zh_path": "phases/12-multimodal-ai/25-multimodal-agents-computer-use/docs/zh.md"
+    },
+    "phases/13-tools-and-protocols/01-the-tool-interface/docs/en.md": {
+      "sha256": "f7d5948ae0b4d1855c869b51bdb90d02a34ece9ff60344da7be65277e56a8131",
+      "zh_path": "phases/13-tools-and-protocols/01-the-tool-interface/docs/zh.md"
+    },
+    "phases/13-tools-and-protocols/02-function-calling-deep-dive/docs/en.md": {
+      "sha256": "a9b37ed8889ced897f06d75e178e64e5d19490d04520d5b21d0e5731f9c7ad1e",
+      "zh_path": "phases/13-tools-and-protocols/02-function-calling-deep-dive/docs/zh.md"
+    },
+    "phases/13-tools-and-protocols/03-parallel-and-streaming-tool-calls/docs/en.md": {
+      "sha256": "270d774b24218d577677db3b3dfb3d12af4d59b7cd6832201a5f9fd7b4aa8447",
+      "zh_path": "phases/13-tools-and-protocols/03-parallel-and-streaming-tool-calls/docs/zh.md"
+    },
+    "phases/13-tools-and-protocols/04-structured-output/docs/en.md": {
+      "sha256": "d00432b49ba5f5c1282e502bfac58ae5ad1b25b28187a314a8b989badca1b578",
+      "zh_path": "phases/13-tools-and-protocols/04-structured-output/docs/zh.md"
+    },
+    "phases/13-tools-and-protocols/05-tool-schema-design/docs/en.md": {
+      "sha256": "e6660d3936cb543ebd181da52741539a2fc35b6b287785e93117f9a333080d30",
+      "zh_path": "phases/13-tools-and-protocols/05-tool-schema-design/docs/zh.md"
+    },
+    "phases/13-tools-and-protocols/06-mcp-fundamentals/docs/en.md": {
+      "sha256": "67c6891660801ef5b808da02d79d3f651c35fee97ffbabd3842229022b6e8cf4",
+      "zh_path": "phases/13-tools-and-protocols/06-mcp-fundamentals/docs/zh.md"
+    },
+    "phases/13-tools-and-protocols/07-building-an-mcp-server/docs/en.md": {
+      "sha256": "86a0bb113ffc570d8536ee2534033128429070143757a28b80db6bac389f13f3",
+      "zh_path": "phases/13-tools-and-protocols/07-building-an-mcp-server/docs/zh.md"
+    },
+    "phases/13-tools-and-protocols/08-building-an-mcp-client/docs/en.md": {
+      "sha256": "0053de036e33f8b3bce85af85df21c0aa063d47107250c7062af97aa5b6fa9cc",
+      "zh_path": "phases/13-tools-and-protocols/08-building-an-mcp-client/docs/zh.md"
+    },
+    "phases/13-tools-and-protocols/09-mcp-transports/docs/en.md": {
+      "sha256": "c2ef35b9adc02cd17070ab8adf4e4166ecbb81d83fa675f466b31f26e385f99e",
+      "zh_path": "phases/13-tools-and-protocols/09-mcp-transports/docs/zh.md"
+    },
+    "phases/13-tools-and-protocols/10-mcp-resources-and-prompts/docs/en.md": {
+      "sha256": "0d1232a2be0371102a3bd96265d19a24a786bd4e348da9e904eb1f3bdafa0c3a",
+      "zh_path": "phases/13-tools-and-protocols/10-mcp-resources-and-prompts/docs/zh.md"
+    },
+    "phases/13-tools-and-protocols/11-mcp-sampling/docs/en.md": {
+      "sha256": "4ac1c1bc572cfb898ed1e53793644d5507da44f426eab8f9f67f9fa9c5cd6ed8",
+      "zh_path": "phases/13-tools-and-protocols/11-mcp-sampling/docs/zh.md"
+    },
+    "phases/13-tools-and-protocols/12-mcp-roots-and-elicitation/docs/en.md": {
+      "sha256": "e9f82d444407f69477408e14c99edb31792bb2a469055136005d32b5da9fef43",
+      "zh_path": "phases/13-tools-and-protocols/12-mcp-roots-and-elicitation/docs/zh.md"
+    },
+    "phases/13-tools-and-protocols/13-mcp-async-tasks/docs/en.md": {
+      "sha256": "4faa6ee8f75f486a89f48c7f2115e66033315c604ba8adfb6c2831bda14e0eda",
+      "zh_path": "phases/13-tools-and-protocols/13-mcp-async-tasks/docs/zh.md"
+    },
+    "phases/13-tools-and-protocols/14-mcp-apps/docs/en.md": {
+      "sha256": "3c2e2b6479a41c00277293bf848965b1d8d53883f2a783f181214c3e2cc25a9e",
+      "zh_path": "phases/13-tools-and-protocols/14-mcp-apps/docs/zh.md"
+    },
+    "phases/13-tools-and-protocols/15-mcp-security-tool-poisoning/docs/en.md": {
+      "sha256": "c3c38752c1e0468efc405540d88f0a7aca64d98764c99b3d7999cbbea52fcb22",
+      "zh_path": "phases/13-tools-and-protocols/15-mcp-security-tool-poisoning/docs/zh.md"
+    },
+    "phases/13-tools-and-protocols/16-mcp-security-oauth-2-1/docs/en.md": {
+      "sha256": "3ae93c2f81e52011029f1e129307cc55d88804c4c2af5dd4ad29c15661647d28",
+      "zh_path": "phases/13-tools-and-protocols/16-mcp-security-oauth-2-1/docs/zh.md"
+    },
+    "phases/13-tools-and-protocols/17-mcp-gateways-and-registries/docs/en.md": {
+      "sha256": "0adbca10a5a1c8b0ce4250dd2686bc7dd7a2f69d450f31adf0d3274ea0210308",
+      "zh_path": "phases/13-tools-and-protocols/17-mcp-gateways-and-registries/docs/zh.md"
+    },
+    "phases/13-tools-and-protocols/18-mcp-auth-production/docs/en.md": {
+      "sha256": "2150fff898fb2d62f017005355d4c5370a1a7de33f945ca8edc392a0cfd28fa8",
+      "zh_path": "phases/13-tools-and-protocols/18-mcp-auth-production/docs/zh.md"
+    },
+    "phases/13-tools-and-protocols/19-a2a-protocol/docs/en.md": {
+      "sha256": "41f19c1a6260407884ff5f36cc4e7a658cd85af7af404d8171cce59a56e8e1a3",
+      "zh_path": "phases/13-tools-and-protocols/19-a2a-protocol/docs/zh.md"
+    },
+    "phases/13-tools-and-protocols/20-opentelemetry-genai/docs/en.md": {
+      "sha256": "01640e2e0570f0f46e84669536c087d2d753198b304b7a239235bf4614011216",
+      "zh_path": "phases/13-tools-and-protocols/20-opentelemetry-genai/docs/zh.md"
+    },
+    "phases/13-tools-and-protocols/21-llm-routing-layer/docs/en.md": {
+      "sha256": "6b17329a8229cf8d6ad1374c986a3401b6e07db7754cbb3b88085f37612db815",
+      "zh_path": "phases/13-tools-and-protocols/21-llm-routing-layer/docs/zh.md"
+    },
+    "phases/13-tools-and-protocols/22-skills-and-agent-sdks/docs/en.md": {
+      "sha256": "6e0752c96795d3fe30cd7a7cf05ffdd17f472944a50bdd7a172b8985c2b3433f",
+      "zh_path": "phases/13-tools-and-protocols/22-skills-and-agent-sdks/docs/zh.md"
+    },
+    "phases/13-tools-and-protocols/23-capstone-tool-ecosystem/docs/en.md": {
+      "sha256": "08a4835a0aa03f5f1b9ce987f2d9277e38a6aae7cfe7afaac22bc5a141d79d0f",
+      "zh_path": "phases/13-tools-and-protocols/23-capstone-tool-ecosystem/docs/zh.md"
+    },
+    "phases/14-agent-engineering/01-the-agent-loop/docs/en.md": {
+      "sha256": "cad7a4554838eac42cfbca51ad2c44a826ffaabe3db25e2c9ff150e2ed691e05",
+      "zh_path": "phases/14-agent-engineering/01-the-agent-loop/docs/zh.md"
+    },
+    "phases/14-agent-engineering/02-rewoo-plan-and-execute/docs/en.md": {
+      "sha256": "66be386a215f35ca0c70ae9b5eeb2a2df2f267a8140c21d406980e24cf9aa6d5",
+      "zh_path": "phases/14-agent-engineering/02-rewoo-plan-and-execute/docs/zh.md"
+    },
+    "phases/14-agent-engineering/03-reflexion-verbal-rl/docs/en.md": {
+      "sha256": "9afabebcab9e1ce6d6ab3b2b0ceabd8b0aa308b25a73b8d6510fc2f2739f9b36",
+      "zh_path": "phases/14-agent-engineering/03-reflexion-verbal-rl/docs/zh.md"
+    },
+    "phases/14-agent-engineering/04-tree-of-thoughts-lats/docs/en.md": {
+      "sha256": "bf50eec7d53dfad78e14e7ded88fbe39aa29625c92de34b00093ebc49c9dd67b",
+      "zh_path": "phases/14-agent-engineering/04-tree-of-thoughts-lats/docs/zh.md"
+    },
+    "phases/14-agent-engineering/05-self-refine-and-critic/docs/en.md": {
+      "sha256": "4f432475b42d23bb81f40bfbc6f38fca907a71604fd71560647b812944dc3e87",
+      "zh_path": "phases/14-agent-engineering/05-self-refine-and-critic/docs/zh.md"
+    },
+    "phases/14-agent-engineering/06-tool-use-and-function-calling/docs/en.md": {
+      "sha256": "73cf8bf653c6148817147fd98b4fc780d9794ca3e9651605f6c8e3f242a14992",
+      "zh_path": "phases/14-agent-engineering/06-tool-use-and-function-calling/docs/zh.md"
+    },
+    "phases/14-agent-engineering/07-memory-virtual-context-memgpt/docs/en.md": {
+      "sha256": "5773d659046f5c288b31a55ba76203819cd1564243e80e630bcc7c085e210eba",
+      "zh_path": "phases/14-agent-engineering/07-memory-virtual-context-memgpt/docs/zh.md"
+    },
+    "phases/14-agent-engineering/08-memory-blocks-sleep-time-compute/docs/en.md": {
+      "sha256": "9024f2f5f442e70c49c2a397df9201c5e88d600f7b99e7739410227025d8c91c",
+      "zh_path": "phases/14-agent-engineering/08-memory-blocks-sleep-time-compute/docs/zh.md"
+    },
+    "phases/14-agent-engineering/09-hybrid-memory-mem0/docs/en.md": {
+      "sha256": "2bc8de02fe82252fc327ef2f550947453ce7cc0e5fdbaa8c426fa0f10726810e",
+      "zh_path": "phases/14-agent-engineering/09-hybrid-memory-mem0/docs/zh.md"
+    },
+    "phases/14-agent-engineering/10-skill-libraries-voyager/docs/en.md": {
+      "sha256": "e4a64027778f1227764f8128acd073580e3138c3b5e6176ed875d592eabb99c6",
+      "zh_path": "phases/14-agent-engineering/10-skill-libraries-voyager/docs/zh.md"
+    },
+    "phases/14-agent-engineering/11-planning-htn-and-evolutionary/docs/en.md": {
+      "sha256": "4495a3d68057f69e6b9cc53f5456f977d3f17d5d90e4a255f04b01b70f09008d",
+      "zh_path": "phases/14-agent-engineering/11-planning-htn-and-evolutionary/docs/zh.md"
+    },
+    "phases/14-agent-engineering/12-anthropic-workflow-patterns/docs/en.md": {
+      "sha256": "037fbd0bd17e26b0a9ae583af14c9cad86d97c5c91803b0ebdd6c165f1461abb",
+      "zh_path": "phases/14-agent-engineering/12-anthropic-workflow-patterns/docs/zh.md"
+    },
+    "phases/14-agent-engineering/13-langgraph-stateful-graphs/docs/en.md": {
+      "sha256": "1fc3971642c3ac06f41232d32845e58a2f41badec228cf5cbced1cc22552238d",
+      "zh_path": "phases/14-agent-engineering/13-langgraph-stateful-graphs/docs/zh.md"
+    },
+    "phases/14-agent-engineering/14-autogen-actor-model/docs/en.md": {
+      "sha256": "6220328906643c0361a8699bf0cfd05d8b69fac2011af11d530963115b706ded",
+      "zh_path": "phases/14-agent-engineering/14-autogen-actor-model/docs/zh.md"
+    },
+    "phases/14-agent-engineering/15-crewai-role-based-crews/docs/en.md": {
+      "sha256": "656fa2fd974ff9aab43a45dd37c85dea115d3f4c54b27478da2e071ae58d411e",
+      "zh_path": "phases/14-agent-engineering/15-crewai-role-based-crews/docs/zh.md"
+    },
+    "phases/14-agent-engineering/16-openai-agents-sdk/docs/en.md": {
+      "sha256": "e9972f0ee2e56d474885bc221f0de72f69ec7530dbf5c966ed66661ca39774e3",
+      "zh_path": "phases/14-agent-engineering/16-openai-agents-sdk/docs/zh.md"
+    },
+    "phases/14-agent-engineering/17-claude-agent-sdk/docs/en.md": {
+      "sha256": "127b967bd589e8bfa828cfcba1b586a08b50f3307d708d104b2e9d39e6d94b93",
+      "zh_path": "phases/14-agent-engineering/17-claude-agent-sdk/docs/zh.md"
+    },
+    "phases/14-agent-engineering/18-agno-and-mastra-runtimes/docs/en.md": {
+      "sha256": "641b9d57c1960ab93cb7630f4e93c7296f7e205ebb70bccee36101f8c5385a2a",
+      "zh_path": "phases/14-agent-engineering/18-agno-and-mastra-runtimes/docs/zh.md"
+    },
+    "phases/14-agent-engineering/19-benchmarks-swebench-gaia/docs/en.md": {
+      "sha256": "2482382dc3be106410d5761ba7818add0c29ffac3a7f9137f9cb4565d2ffcdf5",
+      "zh_path": "phases/14-agent-engineering/19-benchmarks-swebench-gaia/docs/zh.md"
+    },
+    "phases/14-agent-engineering/20-benchmarks-webarena-osworld/docs/en.md": {
+      "sha256": "78dff0043e613dbd4a48265bdbdea11ef8253ad60eb6558e2a0f8ed9d10d5a5d",
+      "zh_path": "phases/14-agent-engineering/20-benchmarks-webarena-osworld/docs/zh.md"
+    },
+    "phases/14-agent-engineering/21-computer-use-agents/docs/en.md": {
+      "sha256": "9438164a6c8e3a47748ad0b06f899df1fa3b54f67b94ea5e50ecc68fbcb9f1be",
+      "zh_path": "phases/14-agent-engineering/21-computer-use-agents/docs/zh.md"
+    },
+    "phases/14-agent-engineering/22-voice-agents-pipecat-livekit/docs/en.md": {
+      "sha256": "a637b5e1ef50674e90bf0a5f052d4fcc1e6fcdd62ef5bb7da9c19f1ddabff490",
+      "zh_path": "phases/14-agent-engineering/22-voice-agents-pipecat-livekit/docs/zh.md"
+    },
+    "phases/14-agent-engineering/23-otel-genai-conventions/docs/en.md": {
+      "sha256": "ab7828fb0c0c7b6773877237e0f22e2fc803534bab0f40954138e18caacb0515",
+      "zh_path": "phases/14-agent-engineering/23-otel-genai-conventions/docs/zh.md"
+    },
+    "phases/14-agent-engineering/24-agent-observability-platforms/docs/en.md": {
+      "sha256": "1f0e1a15f53a1f8d7fdf184355d12a2cd55333fcfba7472b85b4c77a3eb2d35e",
+      "zh_path": "phases/14-agent-engineering/24-agent-observability-platforms/docs/zh.md"
+    },
+    "phases/14-agent-engineering/25-multi-agent-debate/docs/en.md": {
+      "sha256": "4d29d744c23f93c559b81e914e06855063e93bb99db32be9ce4fd4032c9fdf72",
+      "zh_path": "phases/14-agent-engineering/25-multi-agent-debate/docs/zh.md"
+    },
+    "phases/14-agent-engineering/26-failure-modes-agentic/docs/en.md": {
+      "sha256": "cea442b6ff3a1b5bd39da4f97dbe76e0e4a198fdfc0a8f726ab5a564f76731e6",
+      "zh_path": "phases/14-agent-engineering/26-failure-modes-agentic/docs/zh.md"
+    },
+    "phases/14-agent-engineering/27-prompt-injection-defense/docs/en.md": {
+      "sha256": "ac7d3870b800b8c721938bbe918be3950ddfd3fe8a0a0c1ae4d7a868424dee50",
+      "zh_path": "phases/14-agent-engineering/27-prompt-injection-defense/docs/zh.md"
+    },
+    "phases/14-agent-engineering/28-orchestration-patterns/docs/en.md": {
+      "sha256": "a946a1c91595b0bdda11729dc622200aba149ccbc5006a6c8bf0abb3934801cf",
+      "zh_path": "phases/14-agent-engineering/28-orchestration-patterns/docs/zh.md"
+    },
+    "phases/14-agent-engineering/29-production-runtimes/docs/en.md": {
+      "sha256": "c917a46044a378a91062135f0db00cac45e07cecbad35e2bf879dd9b0fe9fd16",
+      "zh_path": "phases/14-agent-engineering/29-production-runtimes/docs/zh.md"
+    },
+    "phases/14-agent-engineering/30-eval-driven-agent-development/docs/en.md": {
+      "sha256": "3dad5f0c4bd4964b74d2ac152aa12c03017d277cce08f861dda6f17a1a823e3b",
+      "zh_path": "phases/14-agent-engineering/30-eval-driven-agent-development/docs/zh.md"
+    },
+    "phases/14-agent-engineering/31-agent-workbench-why-models-fail/docs/en.md": {
+      "sha256": "ecab0133e31b70bb210695874c8d19db0efcb076e4f8490042bd300db12a9bca",
+      "zh_path": "phases/14-agent-engineering/31-agent-workbench-why-models-fail/docs/zh.md"
+    },
+    "phases/14-agent-engineering/32-minimal-agent-workbench/docs/en.md": {
+      "sha256": "273d34e4dd0414b4530ee4970d4448f9b129b05fe14a6be8d5f47664d1b0bc35",
+      "zh_path": "phases/14-agent-engineering/32-minimal-agent-workbench/docs/zh.md"
+    },
+    "phases/14-agent-engineering/33-instructions-as-executable-constraints/docs/en.md": {
+      "sha256": "2814ad66e4435ef5c2240a9980e552b1041b43508a8d996b2659994141a46138",
+      "zh_path": "phases/14-agent-engineering/33-instructions-as-executable-constraints/docs/zh.md"
+    },
+    "phases/14-agent-engineering/34-repo-memory-and-state/docs/en.md": {
+      "sha256": "d74afb97ba22d7e1d78f1a67c2df8ccd8d1f7dba16b5e581b716132d68d349e5",
+      "zh_path": "phases/14-agent-engineering/34-repo-memory-and-state/docs/zh.md"
+    },
+    "phases/14-agent-engineering/35-initialization-scripts/docs/en.md": {
+      "sha256": "0fb8930ded8c7fcefd51d4da9d678d497581e1e86489663366ff1ef8e11d0c8e",
+      "zh_path": "phases/14-agent-engineering/35-initialization-scripts/docs/zh.md"
+    },
+    "phases/14-agent-engineering/36-scope-contracts/docs/en.md": {
+      "sha256": "608e39a47bdbdf40f4e348692bff77bc65c9cd62de530a15b690eb30166758d5",
+      "zh_path": "phases/14-agent-engineering/36-scope-contracts/docs/zh.md"
+    },
+    "phases/14-agent-engineering/37-runtime-feedback-loops/docs/en.md": {
+      "sha256": "b2235647cc12efc2467eab1b7d62dc0d1e10f740cfb4fa28263b42b2e7de198d",
+      "zh_path": "phases/14-agent-engineering/37-runtime-feedback-loops/docs/zh.md"
+    },
+    "phases/14-agent-engineering/38-verification-gates/docs/en.md": {
+      "sha256": "2af772393ded295cfae7c1ebfa784f9727ca9c5d7a6692726d756ced18af3868",
+      "zh_path": "phases/14-agent-engineering/38-verification-gates/docs/zh.md"
+    },
+    "phases/14-agent-engineering/39-reviewer-agent/docs/en.md": {
+      "sha256": "af2fe923511b8c163e7c3d892fefad02c4ca785a8e17c01ee884140d7b0f04c5",
+      "zh_path": "phases/14-agent-engineering/39-reviewer-agent/docs/zh.md"
+    },
+    "phases/14-agent-engineering/40-multi-session-handoff/docs/en.md": {
+      "sha256": "57b19618da09e2af6123228ab25d0490d19e6572df18f85164bd1e0c7bb0060e",
+      "zh_path": "phases/14-agent-engineering/40-multi-session-handoff/docs/zh.md"
+    },
+    "phases/14-agent-engineering/41-workbench-for-real-repos/docs/en.md": {
+      "sha256": "1f4d7950044834897206341317ef0dc977142787ad00d1b2529b23e55c7e24e1",
+      "zh_path": "phases/14-agent-engineering/41-workbench-for-real-repos/docs/zh.md"
+    },
+    "phases/14-agent-engineering/42-agent-workbench-capstone/docs/en.md": {
+      "sha256": "f58c79147fc2beb20214a211c652173bf77e5f60324771e6935f6b167bf61589",
+      "zh_path": "phases/14-agent-engineering/42-agent-workbench-capstone/docs/zh.md"
+    },
+    "phases/15-autonomous-systems/01-long-horizon-agents/docs/en.md": {
+      "sha256": "7501b37f5bcb44996567ca9c304a2505f654fdd31d24274308d3107f035d85fc",
+      "zh_path": "phases/15-autonomous-systems/01-long-horizon-agents/docs/zh.md"
+    },
+    "phases/15-autonomous-systems/02-star-family-reasoning/docs/en.md": {
+      "sha256": "dc3da02402c7cd3fdcb173eb7eb9a04b44041d5fb8b45ac804a7052a22628737",
+      "zh_path": "phases/15-autonomous-systems/02-star-family-reasoning/docs/zh.md"
+    },
+    "phases/15-autonomous-systems/03-alphaevolve-evolutionary-coding/docs/en.md": {
+      "sha256": "7943ebe812af41abc3a2193dcd665d8312805d3cb49cc2c5d9763659952fa990",
+      "zh_path": "phases/15-autonomous-systems/03-alphaevolve-evolutionary-coding/docs/zh.md"
+    },
+    "phases/15-autonomous-systems/04-darwin-godel-machine/docs/en.md": {
+      "sha256": "fdbe977ff95ce41520bbd32359e3c5a800464a3333a1f503d5237bdce63aa525",
+      "zh_path": "phases/15-autonomous-systems/04-darwin-godel-machine/docs/zh.md"
+    },
+    "phases/15-autonomous-systems/05-ai-scientist-v2/docs/en.md": {
+      "sha256": "b5b849020fdcd401b65447071d7eb102d51d2b6cf76f8be4454b83f518a06d30",
+      "zh_path": "phases/15-autonomous-systems/05-ai-scientist-v2/docs/zh.md"
+    },
+    "phases/15-autonomous-systems/06-automated-alignment-research/docs/en.md": {
+      "sha256": "cfde565e7c5e0d1df33a8b4555ff0937764b49a3af32edefdb145920bf79a13c",
+      "zh_path": "phases/15-autonomous-systems/06-automated-alignment-research/docs/zh.md"
+    },
+    "phases/15-autonomous-systems/07-recursive-self-improvement/docs/en.md": {
+      "sha256": "203b879ffa5b1a34afc51caf2fdedcde5553bb08e1873039b036bd1add6f38b0",
+      "zh_path": "phases/15-autonomous-systems/07-recursive-self-improvement/docs/zh.md"
+    },
+    "phases/15-autonomous-systems/08-bounded-self-improvement/docs/en.md": {
+      "sha256": "62c82897738164c20e99783fc0ce90ff55329a0a863f031b2cdeab9bf9cde955",
+      "zh_path": "phases/15-autonomous-systems/08-bounded-self-improvement/docs/zh.md"
+    },
+    "phases/15-autonomous-systems/09-coding-agent-landscape/docs/en.md": {
+      "sha256": "987bd95791db4959795fce17117b11052b3280ca5a72d422fdc8155cf47474ec",
+      "zh_path": "phases/15-autonomous-systems/09-coding-agent-landscape/docs/zh.md"
+    },
+    "phases/15-autonomous-systems/10-claude-code-permission-modes/docs/en.md": {
+      "sha256": "9939a8c08b1cae17394db3837876bee01431f31a206ae63b06ba34813c7f58a2",
+      "zh_path": "phases/15-autonomous-systems/10-claude-code-permission-modes/docs/zh.md"
+    },
+    "phases/15-autonomous-systems/11-browser-agents/docs/en.md": {
+      "sha256": "3c93bdcf5ffda2d2adb1b4798ec78231e25940edc6c1f426207bab6f11432462",
+      "zh_path": "phases/15-autonomous-systems/11-browser-agents/docs/zh.md"
+    },
+    "phases/15-autonomous-systems/12-durable-execution/docs/en.md": {
+      "sha256": "adc5aa6f20ee09b6920ab01aec2e062234e9e6620ca58f4e43fc59f073c15bba",
+      "zh_path": "phases/15-autonomous-systems/12-durable-execution/docs/zh.md"
+    },
+    "phases/15-autonomous-systems/13-cost-governors/docs/en.md": {
+      "sha256": "d8e80ff4a0f296a343c6fc22191edf9c2e6ac40de8500cce1c94af7c168b138d",
+      "zh_path": "phases/15-autonomous-systems/13-cost-governors/docs/zh.md"
+    },
+    "phases/15-autonomous-systems/14-kill-switches-canaries/docs/en.md": {
+      "sha256": "a602c2f9fa68e89788df1e8c0e82da446ef695d4136cc90b8e685b98983506e3",
+      "zh_path": "phases/15-autonomous-systems/14-kill-switches-canaries/docs/zh.md"
+    },
+    "phases/15-autonomous-systems/15-propose-then-commit/docs/en.md": {
+      "sha256": "490d68a1a4e4b61b20df57641f851a5a826bd1ccbbc5e6c1ad75187d1ed8a8f2",
+      "zh_path": "phases/15-autonomous-systems/15-propose-then-commit/docs/zh.md"
+    },
+    "phases/15-autonomous-systems/16-checkpoints-rollback/docs/en.md": {
+      "sha256": "06c60a52a29fb123e9c09faf001c07d7be9f4075a2b0a2206909caad1db312f5",
+      "zh_path": "phases/15-autonomous-systems/16-checkpoints-rollback/docs/zh.md"
+    },
+    "phases/15-autonomous-systems/17-constitutional-ai/docs/en.md": {
+      "sha256": "19e765eb16878884d42eff4401f8e5b1b1cbfb9bb042c430ebc3201e9870553d",
+      "zh_path": "phases/15-autonomous-systems/17-constitutional-ai/docs/zh.md"
+    },
+    "phases/15-autonomous-systems/18-llama-guard/docs/en.md": {
+      "sha256": "919aafcbbbc4bf55cbe081ab9fcaa639ab555ecc197ddae577310c46083b5f65",
+      "zh_path": "phases/15-autonomous-systems/18-llama-guard/docs/zh.md"
+    },
+    "phases/15-autonomous-systems/19-anthropic-rsp/docs/en.md": {
+      "sha256": "609efa15165f46281d1583eadeb420b30c106edaf8ce41642a5bd90be724e6c0",
+      "zh_path": "phases/15-autonomous-systems/19-anthropic-rsp/docs/zh.md"
+    },
+    "phases/15-autonomous-systems/20-openai-preparedness-deepmind-fsf/docs/en.md": {
+      "sha256": "e5e0570ef6d840c3182f83553122c4da0583b57f3faf8cdb5ebd601a8ba0d0f7",
+      "zh_path": "phases/15-autonomous-systems/20-openai-preparedness-deepmind-fsf/docs/zh.md"
+    },
+    "phases/15-autonomous-systems/21-metr-external-evaluation/docs/en.md": {
+      "sha256": "84fbca87dff1226eb4a609b540d0b8a8f4a96e332f8a5562effd15e70aeac11d",
+      "zh_path": "phases/15-autonomous-systems/21-metr-external-evaluation/docs/zh.md"
+    },
+    "phases/15-autonomous-systems/22-cais-caisi-societal-risk/docs/en.md": {
+      "sha256": "c211b59ac76aa94a07f2302415c33f113020db6e016f690863ae1d8f2b2f3f24",
+      "zh_path": "phases/15-autonomous-systems/22-cais-caisi-societal-risk/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/01-why-multi-agent/docs/en.md": {
+      "sha256": "43afcd0c4577433cf152e33711cdee7dc0a0625a37b01a3d30c1588d52dd952e",
+      "zh_path": "phases/16-multi-agent-and-swarms/01-why-multi-agent/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/02-fipa-acl-heritage/docs/en.md": {
+      "sha256": "8fc270f7225f3e0d9b53fb22d05693000fab8e6d5d8e1893d559620d7bc807a5",
+      "zh_path": "phases/16-multi-agent-and-swarms/02-fipa-acl-heritage/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/03-communication-protocols/docs/en.md": {
+      "sha256": "a9d9afb1034e3023c08c406caf40bbb17d6c5342f1a4a32c4b363851e0e8a7e7",
+      "zh_path": "phases/16-multi-agent-and-swarms/03-communication-protocols/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/04-primitive-model/docs/en.md": {
+      "sha256": "970d6493a6e8ca620727ee2e8e5021bf30436b81f37a0ac8d1c799aa45a82a3b",
+      "zh_path": "phases/16-multi-agent-and-swarms/04-primitive-model/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/05-supervisor-orchestrator-pattern/docs/en.md": {
+      "sha256": "aebc7881eca35229546ac140e305c1d607721a118e954f67c35d5159c88bf703",
+      "zh_path": "phases/16-multi-agent-and-swarms/05-supervisor-orchestrator-pattern/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/06-hierarchical-architecture/docs/en.md": {
+      "sha256": "88a8db379b8f8656be2cb07de984800f91b559954c176eb31634781817681194",
+      "zh_path": "phases/16-multi-agent-and-swarms/06-hierarchical-architecture/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/07-society-of-mind-debate/docs/en.md": {
+      "sha256": "cff0ddada6506125d863906cef4f4221221a327d308a91fa4e1fe69f81bc8174",
+      "zh_path": "phases/16-multi-agent-and-swarms/07-society-of-mind-debate/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/08-role-specialization/docs/en.md": {
+      "sha256": "b2f58d6322ee4238e6fb5735f5f7916edb87117d5d2ce65581f9375110e70bc2",
+      "zh_path": "phases/16-multi-agent-and-swarms/08-role-specialization/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/09-parallel-swarm-networks/docs/en.md": {
+      "sha256": "201c910bbb5d0a357b3fd53ce872fad71459f1811ad9a7528e02f56f182b3556",
+      "zh_path": "phases/16-multi-agent-and-swarms/09-parallel-swarm-networks/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/10-group-chat-speaker-selection/docs/en.md": {
+      "sha256": "0de23f08adf0b769a48474cb16955cc08627279d08e91b2ea875016760eb6504",
+      "zh_path": "phases/16-multi-agent-and-swarms/10-group-chat-speaker-selection/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/11-handoffs-and-routines/docs/en.md": {
+      "sha256": "e391bdc8cfe1c947c343716a936e9040f4181805d95a61f4afb41be6eb675999",
+      "zh_path": "phases/16-multi-agent-and-swarms/11-handoffs-and-routines/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/12-a2a-protocol/docs/en.md": {
+      "sha256": "5da08c3fcb098845b6240e0778959005d8edb24337008c48cddbee406b7281af",
+      "zh_path": "phases/16-multi-agent-and-swarms/12-a2a-protocol/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/13-shared-memory-blackboard/docs/en.md": {
+      "sha256": "c2daaf9305157bb93df9a2784eae21d6c19102384481c75f634dc4f85175e25c",
+      "zh_path": "phases/16-multi-agent-and-swarms/13-shared-memory-blackboard/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/14-consensus-and-bft/docs/en.md": {
+      "sha256": "4b219d3d8b1538b6794a8b78fc6583875d9c68648165e23cf784a69294076aff",
+      "zh_path": "phases/16-multi-agent-and-swarms/14-consensus-and-bft/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/15-voting-debate-topology/docs/en.md": {
+      "sha256": "17212b08856e9a63dc8ef4187f7a690390aea48d65ac2a8b7964c07691cd3331",
+      "zh_path": "phases/16-multi-agent-and-swarms/15-voting-debate-topology/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/16-negotiation-bargaining/docs/en.md": {
+      "sha256": "febc55835a944113f5673bda7240ae4f4d674761850f6945e297f80a7de0be2d",
+      "zh_path": "phases/16-multi-agent-and-swarms/16-negotiation-bargaining/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/17-generative-agents-simulation/docs/en.md": {
+      "sha256": "888e8f523c2d8b4c5785f84e57ed83756cfe68afaec72df9d83eea80ffeef611",
+      "zh_path": "phases/16-multi-agent-and-swarms/17-generative-agents-simulation/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/18-theory-of-mind-coordination/docs/en.md": {
+      "sha256": "b914bd3830b1dd8ef0eec96ab91adbad909262e12194d532c9300b0acba7783c",
+      "zh_path": "phases/16-multi-agent-and-swarms/18-theory-of-mind-coordination/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/19-swarm-optimization-pso-aco/docs/en.md": {
+      "sha256": "e747cbc79d45027463449bf32f316edc58ed8b2cc599b1203cafb4d7c76a30c1",
+      "zh_path": "phases/16-multi-agent-and-swarms/19-swarm-optimization-pso-aco/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/20-marl-maddpg-qmix-mappo/docs/en.md": {
+      "sha256": "264bb5816bba8d50362b5ef314905572768cee00b1556a6f94fd06986046fdd8",
+      "zh_path": "phases/16-multi-agent-and-swarms/20-marl-maddpg-qmix-mappo/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/21-agent-economies/docs/en.md": {
+      "sha256": "41a7f1cdb0e357ccc9d0bdcb1c9580987124e683d4a670164377b7d0b0502fc5",
+      "zh_path": "phases/16-multi-agent-and-swarms/21-agent-economies/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/22-production-scaling-queues-checkpoints/docs/en.md": {
+      "sha256": "9f66f51fd6d69d67e7196f47ab9cbd486af0715b599aa3f9fea56bbfde5bda44",
+      "zh_path": "phases/16-multi-agent-and-swarms/22-production-scaling-queues-checkpoints/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/23-failure-modes-mast-groupthink/docs/en.md": {
+      "sha256": "106f83fcdee8c2e063f505af6ac3727b21f12312751a9fdfc3833f614255ea79",
+      "zh_path": "phases/16-multi-agent-and-swarms/23-failure-modes-mast-groupthink/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/24-evaluation-coordination-benchmarks/docs/en.md": {
+      "sha256": "7bb5b8647c7458519514be6813fe1f6e817a3218aefd4d03528aa01eef273467",
+      "zh_path": "phases/16-multi-agent-and-swarms/24-evaluation-coordination-benchmarks/docs/zh.md"
+    },
+    "phases/16-multi-agent-and-swarms/25-case-studies-2026-sota/docs/en.md": {
+      "sha256": "3ceaeabcd6d7797373b0d150e9597510442d58f1dcf79e69310fda5438b0348f",
+      "zh_path": "phases/16-multi-agent-and-swarms/25-case-studies-2026-sota/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/01-managed-llm-platforms/docs/en.md": {
+      "sha256": "72015cf26952983ca5b9522d27cbe2981e576c9b0aef9c1ef9b2ebea13931bc6",
+      "zh_path": "phases/17-infrastructure-and-production/01-managed-llm-platforms/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/02-inference-platform-economics/docs/en.md": {
+      "sha256": "785180cb561cd95f1ecdec186bea56fb7ca2077dead6e97069c64edadf02673c",
+      "zh_path": "phases/17-infrastructure-and-production/02-inference-platform-economics/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/03-gpu-autoscaling-kubernetes/docs/en.md": {
+      "sha256": "c3573a69416732c225d4ee536a73a6e86ff20a34711eb1d310dfe45bf10d54c9",
+      "zh_path": "phases/17-infrastructure-and-production/03-gpu-autoscaling-kubernetes/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/04-vllm-serving-internals/docs/en.md": {
+      "sha256": "68eb09606386ecb4385bd6a290e179d474a5a5f0bfd29fef431de6586216eec1",
+      "zh_path": "phases/17-infrastructure-and-production/04-vllm-serving-internals/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/05-eagle3-speculative-decoding/docs/en.md": {
+      "sha256": "a5a59975d4e6b00b80d3b8500ccbc90d6a180aae29463ff2703eadc46a27324c",
+      "zh_path": "phases/17-infrastructure-and-production/05-eagle3-speculative-decoding/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/06-sglang-radixattention/docs/en.md": {
+      "sha256": "d46eb3f0e115767c4f30a47c853328048ed7d61ed3fa8d44e81c24fea960d0c0",
+      "zh_path": "phases/17-infrastructure-and-production/06-sglang-radixattention/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/07-tensorrt-llm-blackwell/docs/en.md": {
+      "sha256": "5d74ac27b8a52650a6e406eaa86f360a751fe77812a5d9a77206b4c6e3fbfda0",
+      "zh_path": "phases/17-infrastructure-and-production/07-tensorrt-llm-blackwell/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/08-inference-metrics-goodput/docs/en.md": {
+      "sha256": "988ea70d685bc36b3813c5028c374bd42425b17d6fd01354b8ce4dab7e1f7dbc",
+      "zh_path": "phases/17-infrastructure-and-production/08-inference-metrics-goodput/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/09-production-quantization/docs/en.md": {
+      "sha256": "0e0e64a69f6651f72d979415d69268541a6a7b1c5b529ecb33baf5a07cbc2f78",
+      "zh_path": "phases/17-infrastructure-and-production/09-production-quantization/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/10-cold-start-mitigation/docs/en.md": {
+      "sha256": "68923dbb83cca01b891bd1a99a71f84b2ea54abe982c3969942f3f88719ad08a",
+      "zh_path": "phases/17-infrastructure-and-production/10-cold-start-mitigation/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/11-multi-region-kv-locality/docs/en.md": {
+      "sha256": "e5b1b5b33a7cd1c84986697c462378106ea9dec1dae9e232e55701b8acae5639",
+      "zh_path": "phases/17-infrastructure-and-production/11-multi-region-kv-locality/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/12-edge-inference/docs/en.md": {
+      "sha256": "a25dd25cd590660f2f4f9064fb96e71d2dc322645fbaf99b91fe14d721803cca",
+      "zh_path": "phases/17-infrastructure-and-production/12-edge-inference/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/13-llm-observability/docs/en.md": {
+      "sha256": "feaee0a86ea5d10330962f9139e18c20a76da3a3eb71e641047a19623b2aa14f",
+      "zh_path": "phases/17-infrastructure-and-production/13-llm-observability/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/14-prompt-semantic-caching/docs/en.md": {
+      "sha256": "040268bad91c88c452e055608f155b3a0da641d8eab4a00ba56298145ec712a1",
+      "zh_path": "phases/17-infrastructure-and-production/14-prompt-semantic-caching/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/15-batch-apis/docs/en.md": {
+      "sha256": "01d92bdc7720c5a528b32b1bf9414d0b565b96bdaf6c01521730d5676ef62eb5",
+      "zh_path": "phases/17-infrastructure-and-production/15-batch-apis/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/16-model-routing/docs/en.md": {
+      "sha256": "33146ed765b0363fa35255ab0c41135d5839091e75fee11b43f4b57c81c7305b",
+      "zh_path": "phases/17-infrastructure-and-production/16-model-routing/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/17-disaggregated-prefill-decode/docs/en.md": {
+      "sha256": "c1afe4804c4237f59f224da75526be31bd767125ac10a231aba6ecdc1e89571c",
+      "zh_path": "phases/17-infrastructure-and-production/17-disaggregated-prefill-decode/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/18-vllm-production-stack-lmcache/docs/en.md": {
+      "sha256": "24a58541aa6737596530e1b0f2ae260b8b56fd3b8d5bdc9d2366a68ca668ef75",
+      "zh_path": "phases/17-infrastructure-and-production/18-vllm-production-stack-lmcache/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/19-ai-gateways/docs/en.md": {
+      "sha256": "5cab14470abc2338fe51981a99dea4b508b13ed56883724cc3dad488b69a8017",
+      "zh_path": "phases/17-infrastructure-and-production/19-ai-gateways/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/20-shadow-canary-progressive/docs/en.md": {
+      "sha256": "5154699c72a36230bd90abcfb090bed54351403dbf5ff4bb266a46e74dcafdc2",
+      "zh_path": "phases/17-infrastructure-and-production/20-shadow-canary-progressive/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/21-ab-testing-llm-features/docs/en.md": {
+      "sha256": "28d89fb7e05e294d8bddffce593fd4e7281ceea68672f418fe3e604cf6fe5f25",
+      "zh_path": "phases/17-infrastructure-and-production/21-ab-testing-llm-features/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/22-load-testing-llm-apis/docs/en.md": {
+      "sha256": "d8f09857f46480fa1b394c0981767d695caf155a8cd28aaadb5a3906d22eed3c",
+      "zh_path": "phases/17-infrastructure-and-production/22-load-testing-llm-apis/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/23-sre-for-ai/docs/en.md": {
+      "sha256": "9cb94bd2cacb4e4c33d442248db18c984ee1031d837fe57667a3c65a119f02f4",
+      "zh_path": "phases/17-infrastructure-and-production/23-sre-for-ai/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/24-chaos-engineering-llm/docs/en.md": {
+      "sha256": "c57ff9e5fb9c71402be2bcd67fcc723709e8ccd00cf2f15a960ccf5561de2f4f",
+      "zh_path": "phases/17-infrastructure-and-production/24-chaos-engineering-llm/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/25-security-secrets-audit/docs/en.md": {
+      "sha256": "1c3d048ffdad8e1c30d563803fa486e79ea740e5e438ef5787009ccb56164d2b",
+      "zh_path": "phases/17-infrastructure-and-production/25-security-secrets-audit/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/26-compliance-frameworks/docs/en.md": {
+      "sha256": "45a9cad99c44930d2096c021b137e843ce48ff17d0076b743ab8c3a1f750c04f",
+      "zh_path": "phases/17-infrastructure-and-production/26-compliance-frameworks/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/27-finops-llms/docs/en.md": {
+      "sha256": "f5825368093d5e3b0378caf0c0415fc1061a4cb6b9471504a32048b0ab309390",
+      "zh_path": "phases/17-infrastructure-and-production/27-finops-llms/docs/zh.md"
+    },
+    "phases/17-infrastructure-and-production/28-self-hosted-serving-selection/docs/en.md": {
+      "sha256": "397e27e0198c075a7f3ed0b41af7d5b52ec292e42f75eb095cf4cf4790ee0c05",
+      "zh_path": "phases/17-infrastructure-and-production/28-self-hosted-serving-selection/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/01-instruction-following-alignment-signal/docs/en.md": {
+      "sha256": "0f24b6bad5ff8b60172acee00fbec15c9730b5bcd58a4e463809694dd3801fe7",
+      "zh_path": "phases/18-ethics-safety-alignment/01-instruction-following-alignment-signal/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/02-reward-hacking-goodhart/docs/en.md": {
+      "sha256": "3e90c0c2d439be3c3ec415fcc573adf961c6665ef952fb44caa4e463e6bfb77f",
+      "zh_path": "phases/18-ethics-safety-alignment/02-reward-hacking-goodhart/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/03-direct-preference-optimization-family/docs/en.md": {
+      "sha256": "b081d3ff98e2096b63994d4e43ae025601085616183954e99751f4c3cb2bb6c7",
+      "zh_path": "phases/18-ethics-safety-alignment/03-direct-preference-optimization-family/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/04-sycophancy-rlhf-amplification/docs/en.md": {
+      "sha256": "f0ed7ffd4c7a5914406e0f53bc01500b67a1978c8c36ff29ea9f2b0a35e511e7",
+      "zh_path": "phases/18-ethics-safety-alignment/04-sycophancy-rlhf-amplification/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/05-constitutional-ai-rlaif/docs/en.md": {
+      "sha256": "0841c1320c75dab8657f3e021f4ca24bea797b9e7ca317ca9dade37a68193614",
+      "zh_path": "phases/18-ethics-safety-alignment/05-constitutional-ai-rlaif/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/06-mesa-optimization-deceptive-alignment/docs/en.md": {
+      "sha256": "0b4c29f25c2f31a59177122d64306da30ec534d5dcd80bd57d4a9075de4e153c",
+      "zh_path": "phases/18-ethics-safety-alignment/06-mesa-optimization-deceptive-alignment/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/07-sleeper-agents-persistent-deception/docs/en.md": {
+      "sha256": "162fb42d0b40b18ab45311d80a20fff3c773a4e559d9b44cfdc1c1caf536910d",
+      "zh_path": "phases/18-ethics-safety-alignment/07-sleeper-agents-persistent-deception/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/08-in-context-scheming-frontier-models/docs/en.md": {
+      "sha256": "84f38b408c6bc73f0cfcb4559b5a01980a4038f5a4340e0e55344d535ce7a6bd",
+      "zh_path": "phases/18-ethics-safety-alignment/08-in-context-scheming-frontier-models/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/09-alignment-faking/docs/en.md": {
+      "sha256": "86cbae7dc76399bb5073e91a836bc64a20d1841ca2c8cffa8e6b3cdb1e29bbeb",
+      "zh_path": "phases/18-ethics-safety-alignment/09-alignment-faking/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/10-ai-control-subversion/docs/en.md": {
+      "sha256": "30460f6ca5bdab7214a6d7b6c913b65f9ea47557b25b8faa712ceab4585eb545",
+      "zh_path": "phases/18-ethics-safety-alignment/10-ai-control-subversion/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/11-scalable-oversight-weak-to-strong/docs/en.md": {
+      "sha256": "08c48e7c918435bc78a0456005c4069d6243f5358ff59b24f16ab3138cf8f168",
+      "zh_path": "phases/18-ethics-safety-alignment/11-scalable-oversight-weak-to-strong/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/12-red-teaming-pair-automated-attacks/docs/en.md": {
+      "sha256": "5287dddfe4f62a1ddced1cd759d8f9e2511cb492a0ecaa9b55732be88b1d63b2",
+      "zh_path": "phases/18-ethics-safety-alignment/12-red-teaming-pair-automated-attacks/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/13-many-shot-jailbreaking/docs/en.md": {
+      "sha256": "f5bb926fe6896790f724f70e0dd5e4639f40de0f91bf06ee8c537b74f7e4e733",
+      "zh_path": "phases/18-ethics-safety-alignment/13-many-shot-jailbreaking/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/14-ascii-art-visual-jailbreaks/docs/en.md": {
+      "sha256": "020eb6becfa5ffa2e67fdff6b2b95df881d62a5df1b932520c122ba23984b006",
+      "zh_path": "phases/18-ethics-safety-alignment/14-ascii-art-visual-jailbreaks/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/15-indirect-prompt-injection/docs/en.md": {
+      "sha256": "c385c3475b4db7cac5177988ff3d711df83303bc7583e49c73e927ba84412c00",
+      "zh_path": "phases/18-ethics-safety-alignment/15-indirect-prompt-injection/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/16-red-team-tooling-garak-llamaguard-pyrit/docs/en.md": {
+      "sha256": "9b65157fb605963638ea322493faf1f6917c1d3ac7f89430b2c42e88e801e74b",
+      "zh_path": "phases/18-ethics-safety-alignment/16-red-team-tooling-garak-llamaguard-pyrit/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/17-wmdp-dual-use-evaluation/docs/en.md": {
+      "sha256": "b9f27c158e30bd836adcd962ab1b472752918856ac876ba324e7867b39ad8eda",
+      "zh_path": "phases/18-ethics-safety-alignment/17-wmdp-dual-use-evaluation/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/18-frontier-safety-frameworks-rsp-pf-fsf/docs/en.md": {
+      "sha256": "dfcf52655dce2bd44dcbb786e3ae1db5a73b326a3093528c8d3e29269f98b923",
+      "zh_path": "phases/18-ethics-safety-alignment/18-frontier-safety-frameworks-rsp-pf-fsf/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/19-model-welfare-research/docs/en.md": {
+      "sha256": "24bd1a9561422e3018f282efac8877a9fca8d1919b55e278fead2df6aca6249b",
+      "zh_path": "phases/18-ethics-safety-alignment/19-model-welfare-research/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/20-bias-representational-harm/docs/en.md": {
+      "sha256": "edc816172d7b6355b647eb73fe78a19bdc66535c934072eaa66fac79924f4436",
+      "zh_path": "phases/18-ethics-safety-alignment/20-bias-representational-harm/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/21-fairness-criteria-group-individual-counterfactual/docs/en.md": {
+      "sha256": "e48b651ba2501c6d0fddeccae810a799488777ec165a7c7528f1f37e827be728",
+      "zh_path": "phases/18-ethics-safety-alignment/21-fairness-criteria-group-individual-counterfactual/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/22-differential-privacy-for-llms/docs/en.md": {
+      "sha256": "5d713fe5ba46b7ec2cff7465ce8b3e1a4182e4d35f35ef8f1a23cf6fd489e5ea",
+      "zh_path": "phases/18-ethics-safety-alignment/22-differential-privacy-for-llms/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/23-watermarking-synthid-stable-signature-c2pa/docs/en.md": {
+      "sha256": "b8d7a7ca026caa40082be58ba6e9b550a01f9af94eda932fd04fb58f6ade2eca",
+      "zh_path": "phases/18-ethics-safety-alignment/23-watermarking-synthid-stable-signature-c2pa/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/24-regulatory-frameworks-eu-us-uk-korea/docs/en.md": {
+      "sha256": "2516f08a8f24475c129a1cfcec846fe381f6917b1f6fc70d90cb77516772508a",
+      "zh_path": "phases/18-ethics-safety-alignment/24-regulatory-frameworks-eu-us-uk-korea/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/25-echoleak-cves-for-ai/docs/en.md": {
+      "sha256": "4dfec2ff85d20a7f64dccf6aaf9854c50d3645b395f9d600a804bff28b1eba68",
+      "zh_path": "phases/18-ethics-safety-alignment/25-echoleak-cves-for-ai/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/26-model-system-dataset-cards/docs/en.md": {
+      "sha256": "c5ec745f3d31f7e123b82ace795423126dbea447c98ad10b17d4b1b45bacdc6f",
+      "zh_path": "phases/18-ethics-safety-alignment/26-model-system-dataset-cards/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/27-data-provenance-training-governance/docs/en.md": {
+      "sha256": "257a329930fd971f90dd82d3e5e0262deb4678ae4bd3e2488230728089668a60",
+      "zh_path": "phases/18-ethics-safety-alignment/27-data-provenance-training-governance/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/28-alignment-research-ecosystem/docs/en.md": {
+      "sha256": "09c1de0a815ff5d646bf1df4113f3fb2fb85fc8737e3b910fba8d5cd29d4d33a",
+      "zh_path": "phases/18-ethics-safety-alignment/28-alignment-research-ecosystem/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/29-moderation-systems-openai-perspective-llamaguard/docs/en.md": {
+      "sha256": "7f37ca47a40c6089f2feea77d00bc58380e0acd6d8da01062fffd77554749458",
+      "zh_path": "phases/18-ethics-safety-alignment/29-moderation-systems-openai-perspective-llamaguard/docs/zh.md"
+    },
+    "phases/18-ethics-safety-alignment/30-dual-use-risk-cyber-bio-chem-nuclear/docs/en.md": {
+      "sha256": "46f1e267c9dd4445a3f7ce8c71896d513e5113d9003ff48e1210f994e41c29a1",
+      "zh_path": "phases/18-ethics-safety-alignment/30-dual-use-risk-cyber-bio-chem-nuclear/docs/zh.md"
+    },
+    "phases/19-capstone-projects/01-terminal-native-coding-agent/docs/en.md": {
+      "sha256": "d90a515c0bebaef4236c30dcec41d5fa29b53ee841ccb3b3a3cd0b0d79f3ac4e",
+      "zh_path": "phases/19-capstone-projects/01-terminal-native-coding-agent/docs/zh.md"
+    },
+    "phases/19-capstone-projects/02-rag-over-codebase/docs/en.md": {
+      "sha256": "4a4a3ccc311d5c28fbc0db07a790c0ba94e3ac53f02f3364a5b0e653f856f2f1",
+      "zh_path": "phases/19-capstone-projects/02-rag-over-codebase/docs/zh.md"
+    },
+    "phases/19-capstone-projects/03-realtime-voice-assistant/docs/en.md": {
+      "sha256": "f12a9dcb27ba2ea338996d7af17cd0b12c9b0f4deb4a26c8cb054478b758b02b",
+      "zh_path": "phases/19-capstone-projects/03-realtime-voice-assistant/docs/zh.md"
+    },
+    "phases/19-capstone-projects/04-multimodal-document-qa/docs/en.md": {
+      "sha256": "a33e79d1adfcf60de6a8b8c165d47bb6e0e49c8ea7592db4985614dd5f3da419",
+      "zh_path": "phases/19-capstone-projects/04-multimodal-document-qa/docs/zh.md"
+    },
+    "phases/19-capstone-projects/05-autonomous-research-agent/docs/en.md": {
+      "sha256": "bbcce0540056176d79bbc146a381570c4106d15456995a0a68d91df819131f24",
+      "zh_path": "phases/19-capstone-projects/05-autonomous-research-agent/docs/zh.md"
+    },
+    "phases/19-capstone-projects/06-devops-troubleshooting-agent/docs/en.md": {
+      "sha256": "2ce883f811f5048aa427b486a90d6f3f3816b7892ff1222e91a7c5fc6b4b7af6",
+      "zh_path": "phases/19-capstone-projects/06-devops-troubleshooting-agent/docs/zh.md"
+    },
+    "phases/19-capstone-projects/07-end-to-end-fine-tuning-pipeline/docs/en.md": {
+      "sha256": "e905396971eca78a2f1d7f172600de1b4c2862fe909991d8737d0f44cb159f34",
+      "zh_path": "phases/19-capstone-projects/07-end-to-end-fine-tuning-pipeline/docs/zh.md"
+    },
+    "phases/19-capstone-projects/08-production-rag-chatbot/docs/en.md": {
+      "sha256": "26eb0d2202034bb4f119b85cdf878477934ed83c1a69162dd79c487c6ebe661d",
+      "zh_path": "phases/19-capstone-projects/08-production-rag-chatbot/docs/zh.md"
+    },
+    "phases/19-capstone-projects/09-code-migration-agent/docs/en.md": {
+      "sha256": "f344c8fd174688d104a44dfd53846d953b9f64b984d3c23463c48033102f898b",
+      "zh_path": "phases/19-capstone-projects/09-code-migration-agent/docs/zh.md"
+    },
+    "phases/19-capstone-projects/10-multi-agent-software-team/docs/en.md": {
+      "sha256": "4d9e8994cb925152307973372e67e1eb0718bb7d00a449ce9428db1f26135409",
+      "zh_path": "phases/19-capstone-projects/10-multi-agent-software-team/docs/zh.md"
+    },
+    "phases/19-capstone-projects/11-llm-observability-dashboard/docs/en.md": {
+      "sha256": "68f0ae56dde7f5819b165a5352df4d57f2c2b7675c1f976fd6a9dde4e044eb56",
+      "zh_path": "phases/19-capstone-projects/11-llm-observability-dashboard/docs/zh.md"
+    },
+    "phases/19-capstone-projects/12-video-understanding-pipeline/docs/en.md": {
+      "sha256": "dd3f9a524142625c5a52711aca234e2ada306fdc8696abbd00b3c7b81a330d16",
+      "zh_path": "phases/19-capstone-projects/12-video-understanding-pipeline/docs/zh.md"
+    },
+    "phases/19-capstone-projects/13-mcp-server-with-registry/docs/en.md": {
+      "sha256": "ab2d14c015ebfbfa6e824e87dc27de7315ad3fc261a5f070f0ace692e5d2fef6",
+      "zh_path": "phases/19-capstone-projects/13-mcp-server-with-registry/docs/zh.md"
+    },
+    "phases/19-capstone-projects/14-speculative-decoding-server/docs/en.md": {
+      "sha256": "2ad6c7ad68b5153b876d21ab37814be2b96ee7e2ff0f657ad6f36a31279cd2b1",
+      "zh_path": "phases/19-capstone-projects/14-speculative-decoding-server/docs/zh.md"
+    },
+    "phases/19-capstone-projects/15-constitutional-safety-harness/docs/en.md": {
+      "sha256": "ce4d40ed2e5d14a98fd97bcc569468dd2259cc4f3a76dcbe81c1650dd6eab57b",
+      "zh_path": "phases/19-capstone-projects/15-constitutional-safety-harness/docs/zh.md"
+    },
+    "phases/19-capstone-projects/16-github-issue-to-pr-agent/docs/en.md": {
+      "sha256": "94c42118c911ff902ed73e16a196f42e4ba3707cd3fad39d0e1ec1612f1ae7c0",
+      "zh_path": "phases/19-capstone-projects/16-github-issue-to-pr-agent/docs/zh.md"
+    },
+    "phases/19-capstone-projects/17-personal-ai-tutor/docs/en.md": {
+      "sha256": "466410db3791ce4ce7d33d3c9004a2e1df40f9b808e3b187404d2f2a40b34d56",
+      "zh_path": "phases/19-capstone-projects/17-personal-ai-tutor/docs/zh.md"
+    },
+    "phases/19-capstone-projects/20-agent-harness-loop-contract/docs/en.md": {
+      "sha256": "b2ebf71da2a7eb40d6dd4f9ba5b39fff4d716860897721c211f1fd196ce218a8",
+      "zh_path": "phases/19-capstone-projects/20-agent-harness-loop-contract/docs/zh.md"
+    },
+    "phases/19-capstone-projects/21-tool-registry-schema-validation/docs/en.md": {
+      "sha256": "5e4c9ca8d9382a173afd217e726b654e74db4afb6e81ddb294bee71c254b0352",
+      "zh_path": "phases/19-capstone-projects/21-tool-registry-schema-validation/docs/zh.md"
+    },
+    "phases/19-capstone-projects/22-jsonrpc-stdio-transport/docs/en.md": {
+      "sha256": "ca642047c5c161b62b575db8942e79f576b9060f1e1a98dbb3437480489b0678",
+      "zh_path": "phases/19-capstone-projects/22-jsonrpc-stdio-transport/docs/zh.md"
+    },
+    "phases/19-capstone-projects/23-function-call-dispatcher/docs/en.md": {
+      "sha256": "379d7ab34cd675dd5aa2008589b54d8a3713729622dce3de7306323fb282c862",
+      "zh_path": "phases/19-capstone-projects/23-function-call-dispatcher/docs/zh.md"
+    },
+    "phases/19-capstone-projects/24-plan-execute-control-flow/docs/en.md": {
+      "sha256": "618c74e1d30ce0abcb7dd2320b1c0d52b854ceb77b462acba6600df6a4e75511",
+      "zh_path": "phases/19-capstone-projects/24-plan-execute-control-flow/docs/zh.md"
+    },
+    "phases/19-capstone-projects/25-verification-gates-observation-budget/docs/en.md": {
+      "sha256": "e60e20b96704caf3522eadb5fdfc5485dba4738517bd90b26cc9b3279a870957",
+      "zh_path": "phases/19-capstone-projects/25-verification-gates-observation-budget/docs/zh.md"
+    },
+    "phases/19-capstone-projects/26-sandbox-runner-denylist/docs/en.md": {
+      "sha256": "014d56bde3098d40f3487401544f65a198eea651d5f5ac4caf106f6151698fe4",
+      "zh_path": "phases/19-capstone-projects/26-sandbox-runner-denylist/docs/zh.md"
+    },
+    "phases/19-capstone-projects/27-eval-harness-fixture-tasks/docs/en.md": {
+      "sha256": "76f36a6d77fbffa5815676c81dfe7a4ccba00c51ef7bdb169e121ce984052517",
+      "zh_path": "phases/19-capstone-projects/27-eval-harness-fixture-tasks/docs/zh.md"
+    },
+    "phases/19-capstone-projects/28-observability-otel-traces/docs/en.md": {
+      "sha256": "673aceef7517fdf77a8dd6eaaee4dc59c6e32bfeca2e8926230161bc6caff1e2",
+      "zh_path": "phases/19-capstone-projects/28-observability-otel-traces/docs/zh.md"
+    },
+    "phases/19-capstone-projects/29-end-to-end-coding-task-demo/docs/en.md": {
+      "sha256": "bb4a56527d643b83e2d14931640ff37891965e72e05780af7926e088f2bdc363",
+      "zh_path": "phases/19-capstone-projects/29-end-to-end-coding-task-demo/docs/zh.md"
+    },
+    "phases/19-capstone-projects/30-bpe-tokenizer-from-scratch/docs/en.md": {
+      "sha256": "09b1d1fa91c84e5f86d3c5a46b33df42716d0ae4709c4193891913d25fd6e60e",
+      "zh_path": "phases/19-capstone-projects/30-bpe-tokenizer-from-scratch/docs/zh.md"
+    },
+    "phases/19-capstone-projects/31-tokenized-dataset-sliding-window/docs/en.md": {
+      "sha256": "19a26a8f6609f774a1f7ae981aa5037c7bae63d63235011285921ffff8c98d3a",
+      "zh_path": "phases/19-capstone-projects/31-tokenized-dataset-sliding-window/docs/zh.md"
+    },
+    "phases/19-capstone-projects/32-token-positional-embeddings/docs/en.md": {
+      "sha256": "acc88cf85ce14907a056def182957f87dd700f2947384cddba714987f1a1f6bc",
+      "zh_path": "phases/19-capstone-projects/32-token-positional-embeddings/docs/zh.md"
+    },
+    "phases/19-capstone-projects/33-multihead-self-attention/docs/en.md": {
+      "sha256": "945318057e64f1e54c292e67d9b54e6d0d6db41b9c3be572b1752335ede18465",
+      "zh_path": "phases/19-capstone-projects/33-multihead-self-attention/docs/zh.md"
+    },
+    "phases/19-capstone-projects/34-transformer-block/docs/en.md": {
+      "sha256": "f866867b2be13818ee92cc3616ee685efcf6eba6c27fc3991010fddbf43fc25f",
+      "zh_path": "phases/19-capstone-projects/34-transformer-block/docs/zh.md"
+    },
+    "phases/19-capstone-projects/35-gpt-model-assembly/docs/en.md": {
+      "sha256": "a6236ab719faa4ae7540d4b06f7663a2f7e1a727deec51e6a3b02054d2b59bea",
+      "zh_path": "phases/19-capstone-projects/35-gpt-model-assembly/docs/zh.md"
+    },
+    "phases/19-capstone-projects/36-training-loop-eval/docs/en.md": {
+      "sha256": "f88ac0d054d619e24bdbe5e7f493d5ba03b36b5f2e71183d475dc863139877ff",
+      "zh_path": "phases/19-capstone-projects/36-training-loop-eval/docs/zh.md"
+    },
+    "phases/19-capstone-projects/37-loading-pretrained-weights/docs/en.md": {
+      "sha256": "c054314d4aeb470b091d2ccf7bfc8d79fe58e18cf1accf33f866342c1965683a",
+      "zh_path": "phases/19-capstone-projects/37-loading-pretrained-weights/docs/zh.md"
+    },
+    "phases/19-capstone-projects/38-classifier-finetuning/docs/en.md": {
+      "sha256": "5f403291bef565718172b75bc8ce1af67829e6a9b8e6991d0ab29255880a2b0a",
+      "zh_path": "phases/19-capstone-projects/38-classifier-finetuning/docs/zh.md"
+    },
+    "phases/19-capstone-projects/39-instruction-tuning-sft/docs/en.md": {
+      "sha256": "54ba0a153356076736e011f3232dca15cb3576b854a5158275ca93a1d80243cf",
+      "zh_path": "phases/19-capstone-projects/39-instruction-tuning-sft/docs/zh.md"
+    },
+    "phases/19-capstone-projects/40-dpo-from-scratch/docs/en.md": {
+      "sha256": "96337d64255063a660116d78ac4a031f68057a236c82cd3e31cb07e2d92a694f",
+      "zh_path": "phases/19-capstone-projects/40-dpo-from-scratch/docs/zh.md"
+    },
+    "phases/19-capstone-projects/41-eval-pipeline/docs/en.md": {
+      "sha256": "e504b710eb3ee8b1c6a2035ae0f908d52b4b1b76be220e55ba8423398aa79d09",
+      "zh_path": "phases/19-capstone-projects/41-eval-pipeline/docs/zh.md"
+    },
+    "phases/19-capstone-projects/42-large-corpus-downloader/docs/en.md": {
+      "sha256": "ecb6dfe252bde956c114d1b95a9d89f914a558b62c6dae6192308779577f8add",
+      "zh_path": "phases/19-capstone-projects/42-large-corpus-downloader/docs/zh.md"
+    },
+    "phases/19-capstone-projects/43-hdf5-tokenized-corpus/docs/en.md": {
+      "sha256": "509d46586292680ab32e029315527db4e6d2701ebd3740b91bae685b990b91a8",
+      "zh_path": "phases/19-capstone-projects/43-hdf5-tokenized-corpus/docs/zh.md"
+    },
+    "phases/19-capstone-projects/44-cosine-lr-warmup/docs/en.md": {
+      "sha256": "1091f12fd9f8ca3a9184c55267d7b53d46ae517038b962a3aa4fb9d836dd3867",
+      "zh_path": "phases/19-capstone-projects/44-cosine-lr-warmup/docs/zh.md"
+    },
+    "phases/19-capstone-projects/45-gradient-clipping-amp/docs/en.md": {
+      "sha256": "69120e34851ed312c3766c523e68801842bc120f3231abb91c4af2885eb57f66",
+      "zh_path": "phases/19-capstone-projects/45-gradient-clipping-amp/docs/zh.md"
+    },
+    "phases/19-capstone-projects/46-gradient-accumulation/docs/en.md": {
+      "sha256": "0c9dfddc3865b4b426b1119a727218ce398ad66d78fc5370cd3b0f2972c21201",
+      "zh_path": "phases/19-capstone-projects/46-gradient-accumulation/docs/zh.md"
+    },
+    "phases/19-capstone-projects/47-checkpoint-save-resume/docs/en.md": {
+      "sha256": "af50ad0ab8d298ed2aa920397bfe6c27870e112e50a5cbe54d6604985b67b835",
+      "zh_path": "phases/19-capstone-projects/47-checkpoint-save-resume/docs/zh.md"
+    },
+    "phases/19-capstone-projects/48-distributed-fsdp-ddp/docs/en.md": {
+      "sha256": "aef6ae2b3257aa512ceda9d3a1c190636ec6550d27f449828c457bb8d152562f",
+      "zh_path": "phases/19-capstone-projects/48-distributed-fsdp-ddp/docs/zh.md"
+    },
+    "phases/19-capstone-projects/49-lm-eval-harness/docs/en.md": {
+      "sha256": "d9b825af59e4f53e39d83b197f23d5564974eaeb4b0e013e6782e4995d18e62d",
+      "zh_path": "phases/19-capstone-projects/49-lm-eval-harness/docs/zh.md"
+    },
+    "phases/19-capstone-projects/50-hypothesis-generator/docs/en.md": {
+      "sha256": "bf2d0d1e0a07021f4b2106b33c7ac26b4a27dcbbd97a4d20969074aec6f73ec0",
+      "zh_path": "phases/19-capstone-projects/50-hypothesis-generator/docs/zh.md"
+    },
+    "phases/19-capstone-projects/51-literature-retrieval/docs/en.md": {
+      "sha256": "efda65e2463831a093a2023ffc26e06786e86b2f8588577e3b4466cc520d3d56",
+      "zh_path": "phases/19-capstone-projects/51-literature-retrieval/docs/zh.md"
+    },
+    "phases/19-capstone-projects/52-experiment-runner/docs/en.md": {
+      "sha256": "26b8df86860c729563cce1658aa3c1040adbc2f61ad62a3d6d4448cc3e5400d9",
+      "zh_path": "phases/19-capstone-projects/52-experiment-runner/docs/zh.md"
+    },
+    "phases/19-capstone-projects/53-result-evaluator/docs/en.md": {
+      "sha256": "61517395af35d3d9ef39e14b8df72033e69a80d5d62ad298a0fa5def0e92ab23",
+      "zh_path": "phases/19-capstone-projects/53-result-evaluator/docs/zh.md"
+    },
+    "phases/19-capstone-projects/54-paper-writer/docs/en.md": {
+      "sha256": "7c5047bb3cedcdeea51fe9b5aa9806c6ec9f578c5fb6cbe5bf9a59995cee51b1",
+      "zh_path": "phases/19-capstone-projects/54-paper-writer/docs/zh.md"
+    },
+    "phases/19-capstone-projects/55-critic-loop/docs/en.md": {
+      "sha256": "ae17833e21ed364b23b4786126eb2ad5d8fa630d8c9426b700e4eed8b690a00a",
+      "zh_path": "phases/19-capstone-projects/55-critic-loop/docs/zh.md"
+    },
+    "phases/19-capstone-projects/56-iteration-scheduler/docs/en.md": {
+      "sha256": "86cf1f3a2d75d613e259ef93b2d0019363543507e59b44175ecaa580a8ea017b",
+      "zh_path": "phases/19-capstone-projects/56-iteration-scheduler/docs/zh.md"
+    },
+    "phases/19-capstone-projects/57-end-to-end-research-demo/docs/en.md": {
+      "sha256": "10041878f1444b4d025d468da0c2d3d9e5c832e7f4dc15186b4e968969f9dc16",
+      "zh_path": "phases/19-capstone-projects/57-end-to-end-research-demo/docs/zh.md"
+    },
+    "phases/19-capstone-projects/58-vision-encoder-patches/docs/en.md": {
+      "sha256": "43d0955c93824cb819524170f5dbb2afa383e952852c17720e614a2217d71b25",
+      "zh_path": "phases/19-capstone-projects/58-vision-encoder-patches/docs/zh.md"
+    },
+    "phases/19-capstone-projects/59-vit-transformer/docs/en.md": {
+      "sha256": "3d1a467443b076bd778535755f3943db011b87a015f98b109fdfa3d9cc1a5326",
+      "zh_path": "phases/19-capstone-projects/59-vit-transformer/docs/zh.md"
+    },
+    "phases/19-capstone-projects/60-projection-layer-modality-align/docs/en.md": {
+      "sha256": "3ed43f1b4b2ab10f65f638bcb61321fb0c3de2f7e1df96bc3c10c2ab882bc252",
+      "zh_path": "phases/19-capstone-projects/60-projection-layer-modality-align/docs/zh.md"
+    },
+    "phases/19-capstone-projects/61-cross-attention-fusion/docs/en.md": {
+      "sha256": "3fb8b69e7d9b8005b687ddf59d6eab6fe8ba9b6dfca4c422143cf6d00ce107e9",
+      "zh_path": "phases/19-capstone-projects/61-cross-attention-fusion/docs/zh.md"
+    },
+    "phases/19-capstone-projects/62-vision-language-pretraining/docs/en.md": {
+      "sha256": "0d5b3b4a78a485d2ca1104e68151fa45c3f6fce75c8e1e9d41f0a3a5d6c3cbe3",
+      "zh_path": "phases/19-capstone-projects/62-vision-language-pretraining/docs/zh.md"
+    },
+    "phases/19-capstone-projects/63-multimodal-eval/docs/en.md": {
+      "sha256": "328f619e67cbe109f24f7af2f66f6c7645b5fdc029fafff1f1b6e0a4ce74c9b5",
+      "zh_path": "phases/19-capstone-projects/63-multimodal-eval/docs/zh.md"
+    },
+    "phases/19-capstone-projects/64-chunking-strategies-advanced/docs/en.md": {
+      "sha256": "ef79e75dc9ca88d4996f1b0c8439851ed4ef1c09b1d07f98aac1a615ee649fdf",
+      "zh_path": "phases/19-capstone-projects/64-chunking-strategies-advanced/docs/zh.md"
+    },
+    "phases/19-capstone-projects/65-hybrid-retrieval-bm25-dense/docs/en.md": {
+      "sha256": "349b8ff4afbdde0040fafa2cbe18a9d02a1190c8525005b027d8f4dfaed235ef",
+      "zh_path": "phases/19-capstone-projects/65-hybrid-retrieval-bm25-dense/docs/zh.md"
+    },
+    "phases/19-capstone-projects/66-reranker-cross-encoder/docs/en.md": {
+      "sha256": "eb92abaf7d57494481f420456e4e71e4f08e6ff63f50db27d333afa239143ae5",
+      "zh_path": "phases/19-capstone-projects/66-reranker-cross-encoder/docs/zh.md"
+    },
+    "phases/19-capstone-projects/67-query-rewriting-hyde/docs/en.md": {
+      "sha256": "a4e2c2bdbe8b0574806fea27e7218346d083f16e7f6d24bca0571d45524a6886",
+      "zh_path": "phases/19-capstone-projects/67-query-rewriting-hyde/docs/zh.md"
+    },
+    "phases/19-capstone-projects/68-rag-eval-precision-recall/docs/en.md": {
+      "sha256": "72db67289088f978ee7dad40919c0c1de03b4dd16e3092450c9ed959e68897bc",
+      "zh_path": "phases/19-capstone-projects/68-rag-eval-precision-recall/docs/zh.md"
+    },
+    "phases/19-capstone-projects/69-end-to-end-rag-system/docs/en.md": {
+      "sha256": "6970bb8b078df2f211b09db9a11cc38d804f50377a8c4c7dfe57a4915dd0aae7",
+      "zh_path": "phases/19-capstone-projects/69-end-to-end-rag-system/docs/zh.md"
+    },
+    "phases/19-capstone-projects/70-task-spec-format/docs/en.md": {
+      "sha256": "e99782bca7d0e1564015e25aa6a4ca070282221bedce935811297d5f97ea28c9",
+      "zh_path": "phases/19-capstone-projects/70-task-spec-format/docs/zh.md"
+    },
+    "phases/19-capstone-projects/71-classical-metrics/docs/en.md": {
+      "sha256": "ff4835130b82f970fd74a9d3e8c4f9fb0d623df305a1167d6b4ad6922ae19f63",
+      "zh_path": "phases/19-capstone-projects/71-classical-metrics/docs/zh.md"
+    },
+    "phases/19-capstone-projects/72-code-exec-metric/docs/en.md": {
+      "sha256": "c773a1a6fbd21bcdd79931f3236f88a4363d3cde4535b1730a131aaf4b6a995a",
+      "zh_path": "phases/19-capstone-projects/72-code-exec-metric/docs/zh.md"
+    },
+    "phases/19-capstone-projects/73-perplexity-calibration/docs/en.md": {
+      "sha256": "3734f5d12b2c0b784d3df2c57991121f6e409d8d8f9d3899d244c020f1c10967",
+      "zh_path": "phases/19-capstone-projects/73-perplexity-calibration/docs/zh.md"
+    },
+    "phases/19-capstone-projects/74-leaderboard-aggregation/docs/en.md": {
+      "sha256": "7354edb92658383f0397882a2c0fd184250b184750dff63a9ca76c2e0fa07e9c",
+      "zh_path": "phases/19-capstone-projects/74-leaderboard-aggregation/docs/zh.md"
+    },
+    "phases/19-capstone-projects/75-end-to-end-eval-runner/docs/en.md": {
+      "sha256": "b9262c17809875f8080a24a3828c841640710e0df3adc79c09a5e551d46804a2",
+      "zh_path": "phases/19-capstone-projects/75-end-to-end-eval-runner/docs/zh.md"
+    },
+    "phases/19-capstone-projects/76-collective-ops-from-scratch/docs/en.md": {
+      "sha256": "6afa3fceb5e13d0feb632a305534d8dc7201fba3a85b8d8dd0f15dac3fb3c06d",
+      "zh_path": "phases/19-capstone-projects/76-collective-ops-from-scratch/docs/zh.md"
+    },
+    "phases/19-capstone-projects/77-data-parallel-ddp/docs/en.md": {
+      "sha256": "28b9decc081c426324ad7c35291d5da3cbc85f6c0c0c119940b775f00c0be8e0",
+      "zh_path": "phases/19-capstone-projects/77-data-parallel-ddp/docs/zh.md"
+    },
+    "phases/19-capstone-projects/78-zero-parameter-sharding/docs/en.md": {
+      "sha256": "ad2dd468d34e1ef2fa850b0f203c50c76ce01f8b4b18190020def61557757986",
+      "zh_path": "phases/19-capstone-projects/78-zero-parameter-sharding/docs/zh.md"
+    },
+    "phases/19-capstone-projects/79-pipeline-parallel/docs/en.md": {
+      "sha256": "687d930b021acbc6cf9d093108d64f0a176f89cf739aa6d55b237f0ece92bbd7",
+      "zh_path": "phases/19-capstone-projects/79-pipeline-parallel/docs/zh.md"
+    },
+    "phases/19-capstone-projects/80-checkpoint-sharded-resume/docs/en.md": {
+      "sha256": "8a026491db71660f2fab73febc71b8f788dc240de90f5700ce03988b7ac7e6f3",
+      "zh_path": "phases/19-capstone-projects/80-checkpoint-sharded-resume/docs/zh.md"
+    },
+    "phases/19-capstone-projects/81-end-to-end-distributed-train/docs/en.md": {
+      "sha256": "ed7d0395792ff3a0e28c4c64efad5310e7c656de32a8222a019a218a8295c4d0",
+      "zh_path": "phases/19-capstone-projects/81-end-to-end-distributed-train/docs/zh.md"
+    },
+    "phases/19-capstone-projects/82-jailbreak-taxonomy/docs/en.md": {
+      "sha256": "114b7fd71f354a8c17a72fab8cbffc2336a3e6962d61c138cfa063dacbf2cd30",
+      "zh_path": "phases/19-capstone-projects/82-jailbreak-taxonomy/docs/zh.md"
+    },
+    "phases/19-capstone-projects/83-prompt-injection-detector/docs/en.md": {
+      "sha256": "a1fdc8f5315cf0687e431eda756c6b5d0268c2025904b36ab4a058b741a1a99a",
+      "zh_path": "phases/19-capstone-projects/83-prompt-injection-detector/docs/zh.md"
+    },
+    "phases/19-capstone-projects/84-refusal-evaluation/docs/en.md": {
+      "sha256": "4ebe15f8f6b6fff3e0e6ea4cd3e0bd4dac74dda3936b9afb3b9fb511752c502c",
+      "zh_path": "phases/19-capstone-projects/84-refusal-evaluation/docs/zh.md"
+    },
+    "phases/19-capstone-projects/85-content-classifier-integration/docs/en.md": {
+      "sha256": "160c1412faeda9f2941de224b29407d8a75a7c7fca316ade57b157a38a334989",
+      "zh_path": "phases/19-capstone-projects/85-content-classifier-integration/docs/zh.md"
+    },
+    "phases/19-capstone-projects/86-constitutional-rules-engine/docs/en.md": {
+      "sha256": "1091b7670dcb5efa01ce687da84451cf25962c6fb38d74de922c152a5d719b5b",
+      "zh_path": "phases/19-capstone-projects/86-constitutional-rules-engine/docs/zh.md"
+    },
+    "phases/19-capstone-projects/87-end-to-end-safety-gate/docs/en.md": {
+      "sha256": "18d56859185972166f2ae1706092d301e1a58d2385efb674818b18f3c32c2cac",
+      "zh_path": "phases/19-capstone-projects/87-end-to-end-safety-gate/docs/zh.md"
+    }
+  }
+}
